@@ -49,3 +49,4 @@ This dataset is published under the [Creative Commons Attribution 4.0 Internatio
 **Specto Design** is a UX, SEO, and performance-focused digital agency based in California. We help brands design fast, accessible, and impactful web experiences.
 
 👉 Learn more at [spectodesign.com](https://www.spectodesign.com)
+📖 Read the blog: [`Top 1000 Website Audit`](https://www.spectodesign.com/thoughts/marketing/top-1000-websites-audit/)
