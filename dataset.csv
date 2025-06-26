@@ -1,0 +1,1001 @@
+id,site_url,industry,mobile_friendly,page_load_time_sec,core_web_vitals_passed,lighthouse_ran,audited_by,desktop_score,desktop_page_load_time_sec
+1,https://www.youtube.com,Technology,SLOW,6.8,No,Yes,Specto Design,44.0,3
+2,https://www.reddit.com,Social Media,AVERAGE,7.4,No,Yes,Specto Design,63.0,2.3
+3,https://www.facebook.com,Social Media,Blocked,Blocked,Blocked,No,Specto Design,100.0,0.7
+4,https://www.tiktok.com,Social Media,SLOW,8,No,Yes,Specto Design,29.0,5.3
+5,https://www.instagram.com,Social Media,SLOW,5.5,No,Yes,Specto Design,58.0,1.8
+6,https://www.wikipedia.org,Information Services,FAST,2.4,Yes,Yes,Specto Design,97.0,1.3
+7,https://www.amazon.com,E-commerce,FAST,5.8,No,Yes,Specto Design,74.0,2.9
+8,https://www.quora.com,Technology,AVERAGE,2.4,No,Yes,Specto Design,98.0,1.1
+9,https://www.pinterest.com,Social Media,SLOW,9.8,No,Yes,Specto Design,43.0,3.3
+10,https://www.yahoo.com,Technology,AVERAGE,8.7,No,Yes,Specto Design,59.0,3
+11,https://www.ebay.com,E-commerce,AVERAGE,5.2,No,Yes,Specto Design,61.0,3.3
+12,https://www.yelp.com,Technology,AVERAGE,8.1,No,Yes,Specto Design,53.0,2.1
+13,https://www.walmart.com,Retail,AVERAGE,5.8,Yes,Yes,Specto Design,93.0,1.8
+14,https://www.fandom.com,Entertainment,AVERAGE,4.5,No,Yes,Specto Design,81.0,2.1
+15,https://www.linkedin.com,Social Media,AVERAGE,4.2,No,Yes,Specto Design,100.0,0.5
+16,https://www.mapquest.com,Technology,AVERAGE,10.2,No,Yes,Specto Design,60.0,6.3
+17,https://www.nytimes.com,Media,FAST,14.3,No,Yes,Specto Design,25.0,8
+18,https://www.tripadvisor.com,Travel and Tourism,SLOW,9.4,No,Yes,Specto Design,67.0,1.7
+19,https://www.google.com,Technology,AVERAGE,2.7,Yes,Yes,Specto Design,99.0,0.4
+20,https://www.apple.com,Technology,AVERAGE,11.4,No,Yes,Specto Design,74.0,1.9
+21,https://www.x.com,Technology,SLOW,8.1,No,Yes,Specto Design,40.0,3.4
+22,https://www.etsy.com,E-commerce / Handmade & Vintage Goods,Blocked,Blocked,Blocked,No,Specto Design,Blocked,Blocked
+23,https://www.wordpress.com,Technology,SLOW,4.5,No,Yes,Specto Design,98.0,0.9
+24,https://www.target.com,Retail,AVERAGE,9.5,No,Yes,Specto Design,56.0,1.8
+25,https://www.imdb.com,Entertainment,AVERAGE,1.6,Yes,Yes,Specto Design,100.0,0.2
+26,https://www.indeed.com,Job search/employment/recruitment,FAST,2.3,Yes,Yes,Specto Design,97.0,0.6
+27,https://www.nih.gov,Healthcare,SLOW,4.9,No,Yes,Specto Design,81.0,0.7
+28,https://www.medium.com,Media & Publishing,AVERAGE,1.7,Yes,Yes,Specto Design,77.0,0.8
+29,https://www.yellowpages.com,Directory/Listing Services,AVERAGE,2.8,Yes,Yes,Specto Design,99.0,0.7
+30,https://www.stackexchange.com,Technology,AVERAGE,4.6,Yes,Yes,Specto Design,98.0,0.8
+31,https://www.aol.com,Technology,AVERAGE,11.8,No,Yes,Specto Design,54.0,2.7
+32,https://www.britannica.com,Education,SLOW,16.8,No,Yes,Specto Design,62.0,4.3
+33,https://www.homedepot.com,Retail,AVERAGE,17.2,No,Yes,Specto Design,40.0,3.9
+34,https://www.usatoday.com,Media,FAST,11.3,No,Yes,Specto Design,57.0,2.6
+35,https://www.twitter.com,Technology,SLOW,8.1,No,Yes,Specto Design,39.0,3.8
+36,https://www.forbes.com,Media & Publishing,AVERAGE,12.5,No,Yes,Specto Design,50.0,4.3
+37,https://www.healthline.com,Healthcare,SLOW,11.1,No,Yes,Specto Design,60.0,2
+38,https://www.justanswer.com,Online Expert Advice Platform,AVERAGE,2.6,Yes,Yes,Specto Design,99.0,1.1
+39,https://www.costco.com,Retail,AVERAGE,12,No,Yes,Specto Design,51.0,2.9
+40,https://www.msn.com,Technology,AVERAGE,6.5,No,Yes,Specto Design,45.0,3
+41,https://www.theguardian.com,Media,FAST,7.9,No,Yes,Specto Design,57.0,2.7
+42,https://www.cbsnews.com,Media,FAST,12.2,No,Yes,Specto Design,60.0,4
+43,https://www.businessinsider.com,Media & Publishing,FAST,8.1,No,Yes,Specto Design,65.0,3.5
+44,https://www.clevelandclinic.org,Healthcare,SLOW,14.9,No,Yes,Specto Design,48.0,2.1
+45,https://www.mayoclinic.org,Healthcare,FAST,9.2,No,Yes,Specto Design,74.0,1.5
+46,https://www.webmd.com,Healthcare,SLOW,12.7,No,Yes,Specto Design,68.0,error
+47,https://www.nextdoor.com,Social Networking,SLOW,10.5,No,Yes,Specto Design,39.0,3.5
+48,https://www.microsoft.com,Technology,AVERAGE,10.4,No,Yes,Specto Design,56.0,4.9
+49,https://www.spotify.com,Entertainment,SLOW,15.2,No,Yes,Specto Design,5.0,5
+50,https://www.screenrant.com,Entertainment,FAST,9.6,No,Yes,Specto Design,60.0,2.6
+51,https://www.ca.gov,Government,FAST,5.3,No,Yes,Specto Design,96.0,0.7
+52,https://www.wikihow.com,Education,FAST,3.2,Yes,Yes,Specto Design,99.0,0.8
+53,https://www.usnews.com,Media & Publishing,AVERAGE,14.3,No,Yes,Specto Design,39.0,4.5
+54,https://www.bbc.com,Media,FAST,10.5,No,Yes,Specto Design,65.0,1.5
+55,https://www.lowes.com,Retail,SLOW,20,No,Yes,Specto Design,59.0,8.8
+56,https://www.substack.com,Media & Publishing,Unknown,13.8,No,Yes,Specto Design,52.0,4
+57,https://www.sciencedirect.com,Academic Publishing,AVERAGE,5.8,No,Yes,Specto Design,99.0,1.3
+58,https://www.cnn.com,Media,AVERAGE,14.5,No,Yes,Specto Design,38.0,5.3
+59,https://www.researchgate.net,Academic Publishing,SLOW,6,No,Yes,Specto Design,84.0,1.3
+60,https://www.shutterstock.com,Stock photography,AVERAGE,6.1,No,Yes,Specto Design,59.0,n/a
+61,https://www.medicalnewstoday.com,Healthcare,AVERAGE,8.6,No,Yes,Specto Design,71.0,1.7
+62,https://www.newsbreak.com,Media & News,SLOW,4.7,Yes,Yes,Specto Design,85.0,1.1
+63,https://www.alamy.com,Stock photography,SLOW,18,No,Yes,Specto Design,33.0,5
+64,https://www.craigslist.org,Online classifieds,FAST,4.3,No,Yes,Specto Design,83.0,1.8
+65,https://www.alibaba.com,E-commerce,AVERAGE,3.1,No,Yes,Specto Design,89.0,1
+66,https://www.cnet.com,Technology,SLOW,23.6,No,Yes,Specto Design,34.0,4.1
+67,https://www.waze.com,Technology,AVERAGE,9.3,No,Yes,Specto Design,44.0,3.5
+68,https://www.aliexpress.com,E-commerce,SLOW,13,No,Yes,Specto Design,44.0,3
+69,https://www.indiatimes.com,Media & Entertainment,AVERAGE,7.9,No,Yes,Specto Design,62.0,2.8
+70,https://www.adobe.com,Technology,AVERAGE,1.4,Yes,Yes,Specto Design,99.0,0.8
+71,https://www.threads.net,Fashion/Apparel,SLOW,9,No,Yes,Specto Design,60.0,2.7
+72,https://www.study.com,Education,AVERAGE,5.9,No,Yes,Specto Design,88.0,1.6
+73,https://www.espn.com,Sports,AVERAGE,14,No,Yes,Specto Design,54.0,2.4
+74,https://www.go.com,Media,AVERAGE,6.6,No,Yes,Specto Design,79.0,1.1
+75,https://www.allrecipes.com,Food and Beverage,FAST,5.5,No,Yes,Specto Design,71.0,1.8
+76,https://www.ign.com,Gaming,AVERAGE,21.8,No,Yes,Specto Design,35.0,6.4
+77,https://www.buzzfeed.com,Media & Entertainment,FAST,9.7,No,Yes,Specto Design,37.0,error
+78,https://www.bbb.org,Consumer Protection,AVERAGE,4.3,No,Yes,Specto Design,75.0,1.6
+79,https://www.npr.org,Media,AVERAGE,16.1,No,Yes,Specto Design,46.0,error
+80,https://www.www.nhs.uk,Healthcare / Government,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+81,https://www.zillow.com,Real Estate,FAST,8.6,No,Yes,Specto Design,59.0,2.6
+82,https://www.people.com,Media & Entertainment,FAST,3.7,No,Yes,Specto Design,73.0,2.2
+83,https://www.expedia.com,Travel and Tourism,AVERAGE,6.8,No,Yes,Specto Design,27.0,2.9
+84,https://www.bestbuy.com,Retail,SLOW,11.5,No,Yes,Specto Design,40.0,4
+85,https://www.dailymail.co.uk,Media,AVERAGE,18.3,No,Yes,Specto Design,Blocked,Blocked
+86,https://www.harvard.edu,Education,FAST,4.9,No,Yes,Specto Design,77.0,1.4
+87,https://www.github.com,Technology,AVERAGE,10.4,No,Yes,Specto Design,62.0,2.7
+88,https://www.gettyimages.com,Media and Photography,AVERAGE,3.3,No,Yes,Specto Design,78.0,1
+89,https://www.pbs.org,Media,SLOW,7.8,No,Yes,Specto Design,59.0,1.8
+90,https://www.ziprecruiter.com,Human Resources / Job Search,FAST,2.6,Yes,Yes,Specto Design,66.0,1.4
+91,https://www.poshmark.com,E-commerce,SLOW,8.1,No,Yes,Specto Design,50.0,2.1
+92,https://www.dailymotion.com,Entertainment,SLOW,3,Yes,Yes,Specto Design,97.0,1.3
+93,https://www.goodhousekeeping.com,Lifestyle and Home Goods,FAST,9.4,No,Yes,Specto Design,67.0,2.1
+94,https://www.si.com,Sports,FAST,15.5,No,Yes,Specto Design,56.0,4.6
+95,https://www.nypost.com,Media,FAST,18.3,No,Yes,Specto Design,37.0,3.5
+96,https://www.genius.com,Technology,AVERAGE,10.4,No,Yes,Specto Design,37.0,3.9
+97,https://www.texas.gov,Government,FAST,2.4,No,Yes,Specto Design,78.0,1
+98,https://www.rottentomatoes.com,Entertainment,AVERAGE,17.4,No,Yes,Specto Design,48.0,4.4
+99,https://www.nature.com,Science and Research,AVERAGE,4.3,No,Yes,Specto Design,72.0,1.7
+100,https://www.tumblr.com,Social Media,SLOW,7.9,No,Yes,Specto Design,66.0,1.1
+101,https://www.ny.gov,Government,FAST,2.6,No,Yes,Specto Design,89.0,1.2
+102,https://www.cambridge.org,Publishing,AVERAGE,5.4,No,Yes,Specto Design,68.0,1.9
+103,https://www.gamerant.com,Gaming,FAST,12.4,No,Yes,Specto Design,58.0,3.3
+104,https://www.gamespot.com,Gaming,SLOW,12.8,No,Yes,Specto Design,59.0,4.8
+105,https://www.bbc.co.uk,Media,FAST,9.8,No,Yes,Specto Design,38.0,1.9
+106,https://www.merriam-webster.com,Publishing,AVERAGE,14.5,No,Yes,Specto Design,46.0,5.9
+107,https://www.glassdoor.com,Human Resources/Job Search,SLOW,8.5,No,Yes,Specto Design,61.0,2.3
+108,https://www.netflix.com,Entertainment,SLOW,4.8,No,Yes,Specto Design,98.0,0.5
+109,https://www.realtor.com,Real Estate,AVERAGE,14,No,Yes,Specto Design,61.0,3.2
+110,https://www.mlb.com,Sports,AVERAGE,31.2,No,Yes,Specto Design,16.0,13
+111,https://www.scribd.com,Technology,AVERAGE,9.4,No,Yes,Specto Design,40.0,7.5
+112,https://www.sportskeeda.com,Sports,AVERAGE,8.9,No,Yes,Specto Design,54.0,2.5
+113,https://www.flickr.com,Technology,SLOW,7.3,No,Yes,Specto Design,63.0,2.1
+114,https://www.latimes.com,Media,FAST,19.5,No,Yes,Specto Design,36.0,9.3
+115,https://www.goodreads.com,Literature/Books/Education,SLOW,6.9,No,Yes,Specto Design,62.0,3.8
+116,https://www.doordash.com,Food Delivery,SLOW,7.1,No,Yes,Specto Design,55.0,2
+117,https://www.today.com,Media & Entertainment,AVERAGE,15,No,Yes,Specto Design,60.0,3.3
+118,https://www.istockphoto.com,Stock photography,AVERAGE,9.4,No,Yes,Specto Design,69.0,0.7
+119,https://www.soundcloud.com,Music Streaming,AVERAGE,7.4,No,Yes,Specto Design,35.0,7.3
+120,https://www.nbcnews.com,Media,SLOW,15.7,No,Yes,Specto Design,52.0,4
+121,https://www.houzz.com,Home Improvement,SLOW,7.3,No,Yes,Specto Design,62.0,2
+122,https://www.macys.com,Retail,AVERAGE,13.2,No,Yes,Specto Design,37.0,4.1
+123,https://www.washingtonpost.com,Media,FAST,9.5,No,Yes,Specto Design,63.0,2.7
+124,https://www.deviantart.com,Art & Design,AVERAGE,0.8,Yes,Yes,Specto Design,100.0,0.2
+125,https://www.verywellhealth.com,Healthcare,FAST,5.3,No,Yes,Specto Design,69.0,2
+126,https://www.weebly.com,Technology,SLOW,8.4,No,Yes,Specto Design,92.0,1.2
+127,https://www.usda.gov,Government,FAST,5.1,No,Yes,Specto Design,95.0,1.1
+128,https://www.collinsdictionary.com,Publishing,AVERAGE,9.5,No,Yes,Specto Design,65.0,1.9
+129,https://www.reuters.com,Media & News,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+130,https://www.wikiwand.com,Technology,AVERAGE,10.6,No,Yes,Specto Design,46.0,1.8
+131,https://www.parade.com,Media / Lifestyle & Entertainment,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+132,https://www.cbr.com,Entertainment,FAST,18.7,No,Yes,Specto Design,60.0,error
+133,https://www.booking.com,Hospitality/Travel/Tourism,AVERAGE,9.1,No,Yes,Specto Design,57.0,4.7
+134,https://www.steamcommunity.com,Gaming,SLOW,7.2,No,Yes,Specto Design,58.0,2.1
+135,https://www.canva.com,Graphic Design,SLOW,6.9,No,Yes,Specto Design,85.0,0.8
+136,https://www.nps.gov,Government,FAST,7.8,No,Yes,Specto Design,81.0,1.2
+137,https://www.cdc.gov,Healthcare,FAST,9.3,No,Yes,Specto Design,78.0,2.4
+138,https://www.newsweek.com,Media,AVERAGE,12,No,Yes,Specto Design,59.0,2.4
+139,https://www.springer.com,Publishing,AVERAGE,4.8,No,Yes,Specto Design,96.0,0.9
+140,https://www.wayfair.com,E-commerce,AVERAGE,15.9,No,Yes,Specto Design,55.0,4.5
+141,https://www.collider.com,Entertainment,FAST,14.6,No,Yes,Specto Design,55.0,5.2
+142,https://www.wiley.com,Publishing,SLOW,8.3,No,Yes,Specto Design,41.0,3
+143,https://www.ikea.com,Retail,FAST,3.4,Yes,Yes,Specto Design,99.0,0.7
+144,https://www.apnews.com,Media,AVERAGE,15.4,No,Yes,Specto Design,40.0,4.1
+145,https://www.trip.com,Travel and Tourism,AVERAGE,5.6,No,Yes,Specto Design,53.0,2.8
+146,https://www.investopedia.com,Finance,FAST,6.6,No,Yes,Specto Design,83.0,2.4
+147,https://www.ubereats.com,Food Delivery,SLOW,12.3,No,Yes,Specto Design,44.0,3.6
+148,https://www.wa.gov,Government,FAST,6.2,No,Yes,Specto Design,83.0,1.3
+149,https://www.thekitchn.com,Food and Beverage,AVERAGE,9.5,No,Yes,Specto Design,48.0,4.1
+150,https://www.hindustantimes.com,Media,FAST,7.1,No,Yes,Specto Design,55.0,4.6
+151,https://www.zoominfo.com,Information Services,SLOW,5.6,No,Yes,Specto Design,35.0,2.6
+152,https://www.irs.gov,Government/Taxation,FAST,6.1,No,Yes,Specto Design,90.0,1.1
+153,https://www.cosmopolitan.com,Media & Publishing,FAST,9.3,No,Yes,Specto Design,51.0,5.5
+154,https://www.mdpi.com,Publishing,SLOW,6.1,No,Yes,Specto Design,67.0,1.9
+155,https://www.hotels.com,Hospitality,AVERAGE,6.7,No,Yes,Specto Design,64.0,2.3
+156,https://www.wheree.com,Travel and Tourism,SLOW,6.5,No,Yes,Specto Design,91.0,1.2
+157,https://www.southernliving.com,Lifestyle and Home & Garden,FAST,2.8,Yes,Yes,Specto Design,70.0,1.8
+158,https://www.redfin.com,Real Estate,AVERAGE,6.5,No,Yes,Specto Design,43.0,3
+159,https://www.wiktionary.org,Education,FAST,2.4,Yes,Yes,Specto Design,100.0,0.9
+160,https://www.dictionary.com,Education,AVERAGE,17.6,No,Yes,Specto Design,59.0,9.3
+161,https://www.marriott.com,Hospitality,SLOW,25.7,No,Yes,Specto Design,28.0,7.2
+162,https://www.patch.com,Media & News,AVERAGE,6.8,No,Yes,Specto Design,62.0,1.9
+163,https://www.steampowered.com,Gaming,AVERAGE,5.2,No,Yes,Specto Design,73.0,2.9
+164,https://www.bloomberg.com,Financial Services,AVERAGE,21.2,No,Yes,Specto Design,55.0,7.3
+165,https://www.cnbc.com,Media,AVERAGE,15,No,Yes,Specto Design,29.0,5.3
+166,https://www.thegamer.com,Gaming,FAST,10,No,Yes,Specto Design,58.0,error
+167,https://www.kroger.com,Retail,SLOW,9.5,No,Yes,Specto Design,51.0,3.9
+168,https://www.instacart.com,Retail/E-commerce,AVERAGE,4,Yes,Yes,Specto Design,71.0,1.7
+169,https://www.medlineplus.gov,Healthcare,AVERAGE,4.8,No,Yes,Specto Design,82.0,0.9
+170,https://www.time.com,Media,AVERAGE,13.2,No,Yes,Specto Design,58.0,3.3
+171,https://www.nordstrom.com,Retail,FAST,2.6,Yes,Yes,Specto Design,100.0,0.6
+172,https://www.www.gov.uk,Government / Public Services,FAST,1.5,Yes,No,Specto Design,Blocked,Blocked
+173,https://www.tvtropes.org,Entertainment,FAST,5.1,No,Yes,Specto Design,100.0,0.6
+174,https://www.opentable.com,Hospitality,SLOW,8.4,No,Yes,Specto Design,33.0,2.3
+175,https://www.apartments.com,Real Estate,AVERAGE,13.1,No,Yes,Specto Design,71.0,1.2
+176,https://www.kayak.com,Travel and Tourism,AVERAGE,10.4,No,Yes,Specto Design,65.0,2.2
+177,https://www.barnesandnoble.com,Retail,AVERAGE,13.9,No,Yes,Specto Design,36.0,error
+178,https://www.variety.com,Media & News,FAST,30.5,No,No,Specto Design,32.0,8.2
+179,https://www.hollywoodreporter.com,Entertainment,SLOW,31.8,No,Yes,Specto Design,36.0,error
+180,https://www.freepik.com,Graphic design,AVERAGE,5.2,No,Yes,Specto Design,81.0,1.5
+181,https://www.tvguide.com,Media & Entertainment,AVERAGE,9.3,No,Yes,Specto Design,55.0,2.2
+182,https://www.virginia.gov,Government,AVERAGE,5.5,No,Yes,Specto Design,95.0,0.8
+183,https://www.nyc.gov,Government,SLOW,5,No,Yes,Specto Design,68.0,1.2
+184,https://www.hubpages.com,Media & Publishing,Unknown,2,Yes,Yes,Specto Design,97.0,0.7
+185,https://www.threads.com,Retail,SLOW,9.7,No,Yes,Specto Design,64.0,2.6
+186,https://www.groupon.com,E-commerce,AVERAGE,13.6,No,Yes,Specto Design,61.0,3.7
+187,https://www.mit.edu,Education,AVERAGE,7.6,No,Yes,Specto Design,95.0,1.6
+188,https://www.restaurantguru.com,Food & Beverage,AVERAGE,3.7,No,Yes,Specto Design,84.0,1.8
+189,https://www.tomsguide.com,Technology,AVERAGE,14,No,Yes,Specto Design,59.0,error
+190,https://www.timeout.com,Media & Entertainment,FAST,18.9,No,Yes,Specto Design,48.0,5.3
+191,https://www.aaa.com,Automotive,AVERAGE,3.6,No,Yes,Specto Design,42.0,3.3
+192,https://www.redbubble.com,E-commerce,AVERAGE,7.2,No,Yes,Specto Design,63.0,2.4
+193,https://www.pcmag.com,Technology,FAST,9.8,No,Yes,Specto Design,38.0,3.1
+194,https://www.samsclub.com,Retail,SLOW,15.6,No,Yes,Specto Design,24.0,5.4
+195,https://www.economictimes.com,Media & Publishing,AVERAGE,28.6,No,Yes,Specto Design,49.0,5.2
+196,https://www.pa.gov,Government,FAST,8.9,No,Yes,Specto Design,73.0,1.5
+197,https://www.stackoverflow.com,Technology,AVERAGE,7.4,No,Yes,Specto Design,72.0,1.7
+198,https://www.byjus.com,Education,AVERAGE,5.5,No,Yes,Specto Design,89.0,1.4
+199,https://www.iheart.com,Entertainment,SLOW,7.3,No,Yes,Specto Design,45.0,2.4
+200,https://www.homes.com,Real Estate,FAST,8.6,No,Yes,Specto Design,93.0,1.9
+201,https://www.kohls.com,Retail,AVERAGE,11.4,No,Yes,Specto Design,53.0,2.7
+202,https://www.wordreference.com,Language Translation / Reference,FAST,2.2,Yes,Yes,Specto Design,100.0,0.3
+203,https://www.thepioneerwoman.com,Food and Cooking,FAST,6.4,No,Yes,Specto Design,57.0,2.9
+204,https://www.acehardware.com,Retail,AVERAGE,8.3,No,Yes,Specto Design,62.0,2.3
+205,https://www.wired.com,Media,AVERAGE,25.1,No,Yes,Specto Design,34.0,7.4
+206,https://www.cornell.edu,Education,AVERAGE,2.1,No,Yes,Specto Design,89.0,1.2
+207,https://www.city-data.com,Data Analysis,FAST,5.3,No,Yes,Specto Design,93.0,0.9
+208,https://www.archive.org,Technology,AVERAGE,3.9,Yes,Yes,Specto Design,96.0,1.2
+209,https://www.bbcgoodfood.com,Food and Beverage,AVERAGE,8.1,No,Yes,Specto Design,43.0,3.2
+210,https://www.geeksforgeeks.org,Technology,SLOW,4,No,Yes,Specto Design,90.0,1
+211,https://www.prnewswire.com,Media & Communications,FAST,8.7,No,Yes,Specto Design,85.0,1.1
+212,https://www.va.gov,Government,SLOW,6.6,No,Yes,Specto Design,91.0,1.7
+213,https://www.brainly.com,Education / Homework Help,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+214,https://www.hopkinsmedicine.org,Healthcare,FAST,6.4,No,Yes,Specto Design,88.0,1.3
+215,https://www.temu.com,Technology,AVERAGE,8.1,No,Yes,Specto Design,44.0,2.3
+216,https://www.legacy.com,Obituary/Remembrance Services,AVERAGE,5.4,No,Yes,Specto Design,41.0,2.5
+217,https://www.thespruce.com,Lifestyle and Home Improvement,FAST,5.3,No,Yes,Specto Design,69.0,1.9
+218,https://www.dreamstime.com,Photography / Stock Photography,AVERAGE,2,Yes,Yes,Specto Design,94.0,0.9
+219,https://www.menards.com,Retail,SLOW,9.2,No,Yes,Specto Design,14.0,5.1
+220,https://www.vocal.media,Media & Publishing,SLOW,11.2,No,Yes,Specto Design,50.0,2.5
+221,https://www.mumsnet.com,Parenting/Community,FAST,9.7,No,Yes,Specto Design,54.0,5.4
+222,https://www.canada.ca,Government,Unknown,5.6,No,Yes,Specto Design,93.0,1.1
+223,https://www.foodnetwork.com,Food and Beverage,FAST,10.9,No,Yes,Specto Design,68.0,2.3
+224,https://www.goodrx.com,Healthcare,SLOW,9.4,No,Yes,Specto Design,43.0,2.1
+225,https://www.quizlet.com,Education,AVERAGE,6.7,No,Yes,Specto Design,54.0,2.1
+226,https://www.techradar.com,Technology,AVERAGE,17.1,No,Yes,Specto Design,36.0,4
+227,https://www.travelocity.com,Travel and Tourism,AVERAGE,4.7,No,Yes,Specto Design,43.0,2.4
+228,https://www.grubhub.com,Food Delivery,SLOW,9.7,No,Yes,Specto Design,66.0,2.2
+229,https://www.foxnews.com,Media,FAST,19.4,No,Yes,Specto Design,60.0,4
+230,https://www.instructables.com,DIY/Crafts/Tutorials,AVERAGE,6.1,No,Yes,Specto Design,83.0,1.1
+231,https://www.wsj.com,Media & News,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+232,https://www.healthgrades.com,Healthcare,FAST,7.4,No,Yes,Specto Design,98.0,1
+233,https://www.vogue.com,Fashion,AVERAGE,20.6,No,Yes,Specto Design,58.0,8.2
+234,https://www.billboard.com,Entertainment,AVERAGE,25.7,No,Yes,Specto Design,Blocked,Blocked
+235,https://www.dnb.com,Financial Services,SLOW,5.5,No,Yes,Specto Design,24.0,3
+236,https://www.food.com,Food & Beverage,FAST,10.1,No,Yes,Specto Design,62.0,2.9
+237,https://www.rollingstone.com,Media & Entertainment,AVERAGE,20.6,No,Yes,Specto Design,Blocked,Blocked
+238,https://www.state.gov,Government,SLOW,9,No,Yes,Specto Design,89.0,1.1
+239,https://www.trulia.com,Real Estate,AVERAGE,3.9,No,Yes,Specto Design,66.0,0.9
+240,https://www.theknot.com,Wedding Planning,AVERAGE,5.2,No,Yes,Specto Design,65.0,1.9
+241,https://www.eater.com,Food and Beverage,SLOW,12.2,No,Yes,Specto Design,45.0,3.7
+242,https://www.caranddriver.com,Automotive,FAST,14.7,No,Yes,Specto Design,62.0,error
+243,https://www.cbssports.com,Media / Sports,Blocked,,Blocked,No,Specto Design,48.0,8.4
+244,https://www.yourdictionary.com,Education,AVERAGE,9.4,No,Yes,Specto Design,89.0,1.2
+245,https://www.europa.eu,Government,FAST,3.5,No,Yes,Specto Design,90.0,1.2
+246,https://www.oup.com,Publishing,AVERAGE,7.8,No,Yes,Specto Design,52.0,2.4
+247,https://www.mass.gov,Government,FAST,6,No,Yes,Specto Design,91.0,0.9
+248,https://www.eventbrite.com,Event Management,AVERAGE,18.3,No,Yes,Specto Design,34.0,6.7
+249,https://www.michigan.gov,Government,FAST,13.4,No,Yes,Specto Design,64.0,2.7
+250,https://www.independent.co.uk,Media,FAST,23.2,No,Yes,Specto Design,60.0,error
+251,https://www.nasa.gov,Aerospace,AVERAGE,6.7,No,Yes,Specto Design,79.0,1.8
+252,https://www.slideshare.net,Technology,AVERAGE,3.8,No,Yes,Specto Design,93.0,1.3
+253,https://www.howstuffworks.com,Media and Publishing,AVERAGE,4,Yes,Yes,Specto Design,91.0,2.4
+254,https://www.foxsports.com,Sports,AVERAGE,17.3,No,Yes,Specto Design,58.0,4.1
+255,https://www.consumerreports.org,Consumer Advocacy,FAST,4.4,No,Yes,Specto Design,69.0,1.8
+256,https://www.tenor.com,Technology,AVERAGE,2.7,No,Yes,Specto Design,77.0,0.9
+257,https://www.seriouseats.com,Food and Beverage,FAST,4.6,No,Yes,Specto Design,85.0,1.5
+258,https://www.carfax.com,Automotive industry,FAST,5.9,No,Yes,Specto Design,76.0,0.7
+259,https://www.reverso.net,Language Translation,SLOW,5,No,Yes,Specto Design,66.0,1.2
+260,https://www.in.gov,Government,FAST,8,No,Yes,Specto Design,53.0,1.9
+261,https://www.nj.gov,Government,FAST,9,No,Yes,Specto Design,58.0,1.7
+262,https://www.superpages.com,Online directory/Local search,AVERAGE,2.9,Yes,Yes,Specto Design,99.0,0.8
+263,https://www.manta.com,Business Directory,AVERAGE,4.3,No,Yes,Specto Design,95.0,1
+264,https://www.thefreedictionary.com,Education,AVERAGE,12.9,No,Yes,Specto Design,77.0,1.5
+265,https://www.ew.com,Entertainment,FAST,3.5,No,Yes,Specto Design,73.0,2.2
+266,https://www.nerdwallet.com,Finance,AVERAGE,9.7,No,Yes,Specto Design,62.0,2.7
+267,https://www.ranker.com,Media & Entertainment,FAST,6.7,No,Yes,Specto Design,61.0,1.2
+268,https://www.stanford.edu,Education,AVERAGE,4.2,No,Yes,Specto Design,90.0,1.2
+269,https://www.vocabulary.com,Education,AVERAGE,7.2,No,Yes,Specto Design,99.0,0.8
+270,https://www.bhg.com,Home and Garden,FAST,3.8,No,Yes,Specto Design,66.0,2.1
+271,https://www.agoda.com,Hospitality/Travel,AVERAGE,9.3,No,Yes,Specto Design,64.0,4
+272,https://www.samsung.com,Electronics,AVERAGE,13.5,No,Yes,Specto Design,56.0,4.1
+273,https://www.menshealth.com,Health and Wellness,FAST,11.8,No,Yes,Specto Design,62.0,3.2
+274,https://www.the-independent.com,Media,FAST,24.9,No,Yes,Specto Design,62.0,7.7
+275,https://www.delish.com,Food and Beverage,FAST,10.7,No,Yes,Specto Design,77.0,2.5
+276,https://www.ssa.gov,Government,FAST,7.9,No,Yes,Specto Design,97.0,0.7
+277,https://www.countryliving.com,Lifestyle and Home Decor,AVERAGE,12.8,No,Yes,Specto Design,39.0,3
+278,https://www.kbb.com,Automotive,AVERAGE,6.5,No,Yes,Specto Design,56.0,9.5
+279,https://www.cvs.com,Retail pharmacy,AVERAGE,6.3,No,Yes,Specto Design,61.0,2.5
+280,https://www.deadline.com,Entertainment,FAST,12.9,No,Yes,Specto Design,59.0,4.9
+281,https://www.travelandleisure.com,Travel and Tourism,FAST,5.9,No,Yes,Specto Design,56.0,3.8
+282,https://www.edmunds.com,Automotive,FAST,3.9,No,Yes,Specto Design,67.0,1.6
+283,https://www.khanacademy.org,Education,SLOW,5.7,No,Yes,Specto Design,48.0,2.3
+284,https://www.gamesradar.com,Gaming,FAST,14.9,No,Yes,Specto Design,59.0,4.3
+285,https://www.dickssportinggoods.com,Retail,AVERAGE,15.6,No,Yes,Specto Design,47.0,3.8
+286,https://www.the-sun.com,Media,FAST,12.1,No,Yes,Specto Design,65.0,2.9
+287,https://www.theconversation.com,Media & Publishing,FAST,3,No,Yes,Specto Design,95.0,1.2
+288,https://www.michaels.com,Retail,SLOW,11.1,No,Yes,Specto Design,40.0,3.3
+289,https://www.walgreens.com,Retail,SLOW,11,No,Yes,Specto Design,58.0,2.4
+290,https://www.bab.la,Language learning/translation,AVERAGE,10.1,No,Yes,Specto Design,55.0,4
+291,https://www.aminoapps.com,Social Media,AVERAGE,5.4,No,Yes,Specto Design,88.0,1.8
+292,https://www.cars.com,Automotive,AVERAGE,6,No,Yes,Specto Design,63.0,2.7
+293,https://www.nike.com,Apparel & Footwear,SLOW,12.3,No,Yes,Specto Design,44.0,3.5
+294,https://www.umich.edu,Education,FAST,4,No,Yes,Specto Design,71.0,0.9
+295,https://www.airbnb.com,Hospitality,SLOW,7.7,No,Yes,Specto Design,62.0,2.4
+296,https://www.vecteezy.com,Graphic design,AVERAGE,2.9,Yes,Yes,Specto Design,91.0,1.2
+297,https://www.fodors.com,Travel and Tourism,AVERAGE,14.9,No,Yes,Specto Design,57.0,2.7
+298,https://www.aarp.org,Non-profit,SLOW,16,No,Yes,Specto Design,33.0,3
+299,https://www.ycombinator.com,Technology,SLOW,10.1,No,Yes,Specto Design,55.0,2.3
+300,https://www.tvinsider.com,Entertainment,AVERAGE,0.8,Yes,Yes,Specto Design,100.0,0.3
+301,https://www.tasteofhome.com,Food and Beverage,AVERAGE,4.9,No,Yes,Specto Design,96.0,1
+302,https://www.eonline.com,Entertainment,SLOW,13.3,No,Yes,Specto Design,29.0,3.2
+303,https://www.noaa.gov,Government,FAST,6.8,No,Yes,Specto Design,80.0,1.1
+304,https://www.simplyrecipes.com,Food and Cooking,FAST,5.2,No,Yes,Specto Design,83.0,2
+305,https://www.who.int,Healthcare,AVERAGE,10.6,No,Yes,Specto Design,53.0,2.5
+306,https://www.weather.gov,Weather forecasting,AVERAGE,4.9,No,Yes,Specto Design,97.0,0.6
+307,https://www.maryland.gov,Government,AVERAGE,5.5,No,Yes,Specto Design,78.0,1.4
+308,https://www.answers.com,Information Technology,SLOW,3.9,No,Yes,Specto Design,98.0,0.8
+309,https://www.crunchbase.com,Technology,SLOW,10.5,No,Yes,Specto Design,37.0,2.2
+310,https://www.health.com,Health and Wellness,AVERAGE,5.2,No,Yes,Specto Design,70.0,1.8
+311,https://www.realsimple.com,Lifestyle and Home Décor,FAST,5.2,No,Yes,Specto Design,63.0,2.7
+312,https://www.wikimedia.org,Non-profit,FAST,0.8,Yes,Yes,Specto Design,100.0,0.3
+313,https://www.psu.edu,Education,AVERAGE,5,No,Yes,Specto Design,90.0,0.8
+314,https://www.ticketmaster.com,Entertainment,SLOW,1.9,No,Yes,Specto Design,72.0,0.3
+315,https://www.menupix.com,Food & Beverage,FAST,5.5,No,Yes,Specto Design,98.0,0.8
+316,https://www.medicinenet.com,Healthcare,AVERAGE,11.2,No,Yes,Specto Design,57.0,3.6
+317,https://www.allevents.in,Event Management,FAST,8.6,No,Yes,Specto Design,77.0,1.5
+318,https://www.picclick.com,E-commerce,AVERAGE,4.1,No,Yes,Specto Design,94.0,0.9
+319,https://www.heb.com,Retail,SLOW,4.7,No,Yes,Specto Design,63.0,2.4
+320,https://www.telegraph.co.uk,Media,AVERAGE,17.5,No,Yes,Specto Design,61.0,4.3
+321,https://www.vulture.com,Media & Entertainment,AVERAGE,10.7,No,Yes,Specto Design,59.0,3.5
+322,https://www.ohio.gov,Government,AVERAGE,11.9,No,Yes,Specto Design,51.0,3.4
+323,https://www.angi.com,Home Services,AVERAGE,21.3,No,Yes,Specto Design,40.0,5.8
+324,https://www.foodandwine.com,Food and Beverage,FAST,5.2,No,Yes,Specto Design,67.0,2.4
+325,https://www.yardbarker.com,Sports,FAST,7.2,No,Yes,Specto Design,71.0,1.5
+326,https://www.womenshealthmag.com,Health and Wellness,FAST,12.1,No,Yes,Specto Design,72.0,2.5
+327,https://www.illinois.gov,Government,FAST,5.6,No,Yes,Specto Design,82.0,1.3
+328,https://www.loopnet.com,Real Estate,FAST,11.2,No,Yes,Specto Design,80.0,2.6
+329,https://www.flipkart.com,E-commerce,SLOW,8.8,No,Yes,Specto Design,58.0,4.4
+330,https://www.made-in-china.com,Manufacturing,AVERAGE,3.8,Yes,Yes,Specto Design,91.0,1
+331,https://www.jcpenney.com,Retail,AVERAGE,13.2,No,Yes,Specto Design,56.0,3
+332,https://www.rome2rio.com,Travel and Tourism,FAST,6.6,No,Yes,Specto Design,99.0,0.8
+333,https://www.drugs.com,Pharmaceuticals,FAST,5.6,No,Yes,Specto Design,96.0,0.4
+334,https://www.tractorsupply.com,Retail / Farm & Home Supplies,AVERAGE,16.8,No,No,Specto Design,52.0,9.2
+335,https://www.mo.gov,Government,AVERAGE,3.1,Yes,Yes,Specto Design,89.0,1.8
+336,https://www.epa.gov,Government,AVERAGE,4.7,No,Yes,Specto Design,80.0,0.9
+337,https://www.namu.wiki,Information Technology,AVERAGE,5.6,No,Yes,Specto Design,69.0,2
+338,https://www.bizjournals.com,Media & Publishing,FAST,13.5,No,Yes,Specto Design,47.0,3.9
+339,https://www.athlonsports.com,Media / Sports News & Analysis,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+340,https://www.nymag.com,Media,AVERAGE,6.6,No,Yes,Specto Design,44.0,4.9
+341,https://www.fda.gov,Healthcare,FAST,5.1,No,Yes,Specto Design,94.0,0.8
+342,https://www.justia.com,Legal Services,FAST,3,Yes,Yes,Specto Design,98.0,0.8
+343,https://www.teacherspayteachers.com,Education,AVERAGE,5.7,No,Yes,Specto Design,86.0,1.1
+344,https://www.uscis.gov,Government,SLOW,13.6,No,Yes,Specto Design,75.0,2
+345,https://www.cntraveler.com,Travel and Tourism,AVERAGE,34.8,No,Yes,Specto Design,16.0,12.8
+346,https://www.discogs.com,Music Discography,AVERAGE,8.1,No,Yes,Specto Design,74.0,1.3
+347,https://www.travelweekly.com,Travel and Tourism,AVERAGE,11.3,No,Yes,Specto Design,58.0,3.8
+348,https://www.jstor.org,Academic Publishing,SLOW,13,No,Yes,Specto Design,60.0,1.9
+349,https://www.ufl.edu,Education,SLOW,13.4,No,Yes,Specto Design,83.0,2
+350,https://www.usps.com,Postal Services,AVERAGE,5.7,No,Yes,Specto Design,75.0,0.9
+351,https://www.express.co.uk,Media & News,AVERAGE,16,No,Yes,Specto Design,61.0,4
+352,https://www.wordhippo.com,Technology,AVERAGE,3,Yes,Yes,Specto Design,93.0,0.8
+353,https://www.recipetineats.com,Food and Cooking,FAST,8.2,No,Yes,Specto Design,69.0,1.4
+354,https://www.movieweb.com,Entertainment,AVERAGE,9.4,No,Yes,Specto Design,54.0,3.6
+355,https://www.bogleheads.org,Finance,AVERAGE,2.4,Yes,Yes,Specto Design,100.0,0.9
+356,https://www.justice.gov,Government,AVERAGE,49.9,No,Yes,Specto Design,23.0,8.7
+357,https://www.rei.com,Retail,FAST,6.9,No,Yes,Specto Design,67.0,2.1
+358,https://www.psychologytoday.com,Healthcare,FAST,1,Yes,Yes,Specto Design,75.0,1.5
+359,https://www.cbc.ca,Media/News,AVERAGE,7.5,No,Yes,Specto Design,84.0,1.7
+360,https://www.si.edu,Museum/Arts & Culture,SLOW,14.5,No,Yes,Specto Design,37.0,2.3
+361,https://www.dhgate.com,E-commerce,FAST,4.4,Yes,Yes,Specto Design,60.0,3.9
+362,https://www.huffpost.com,Media,AVERAGE,9.9,No,Yes,Specto Design,51.0,4.4
+363,https://www.cargurus.com,Automotive,FAST,7.5,No,Yes,Specto Design,53.0,2.2
+364,https://www.loc.gov,Government/Libraries,AVERAGE,21.8,No,Yes,Specto Design,79.0,1.8
+365,https://www.weather.com,Weather forecasting,SLOW,26.7,No,Yes,Specto Design,28.0,7.2
+366,https://www.issuu.com,Publishing / Digital Publishing,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+367,https://www.hobbylobby.com,Retail,AVERAGE,4.8,No,Yes,Specto Design,67.0,1.4
+368,https://www.army.mil,Government/Military,FAST,5.1,No,Yes,Specto Design,93.0,0.5
+369,https://www.autozone.com,Automotive,SLOW,3,Yes,Yes,Specto Design,91.0,1
+370,https://www.mashable.com,Media & Publishing,FAST,8.1,No,Yes,Specto Design,59.0,3.2
+371,https://www.bedbathandbeyond.com,Retail,AVERAGE,6.9,No,Yes,Specto Design,55.0,3.7
+372,https://www.justwatch.com,Entertainment,SLOW,13.5,No,Yes,Specto Design,64.0,2.2
+373,https://www.verizon.com,Telecommunications,AVERAGE,8.2,No,Yes,Specto Design,61.0,2.1
+374,https://www.motortrend.com,Automotive,FAST,17.6,No,Yes,Specto Design,50.0,4.8
+375,https://www.tn.gov,Government / State Government,AVERAGE,12.1,No,No,Specto Design,65.0,error
+376,https://www.abc.net.au,Media,AVERAGE,7.8,No,Yes,Specto Design,59.0,2.3
+377,https://www.orbitz.com,Travel and Tourism,AVERAGE,6.2,No,Yes,Specto Design,65.0,2
+378,https://www.digitaltrends.com,Technology,FAST,8.6,No,Yes,Specto Design,68.0,3.3
+379,https://www.ndtv.com,Media,AVERAGE,12.8,No,Yes,Specto Design,Blocked,Blocked
+380,https://www.libretexts.org,Education / Open Educational Resources,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+381,https://www.theverge.com,Technology,AVERAGE,11.8,No,Yes,Specto Design,54.0,3.1
+382,https://www.harborfreight.com,Retail,AVERAGE,10.2,No,Yes,Specto Design,43.0,3.1
+383,https://www.elle.com,Fashion,FAST,13,No,Yes,Specto Design,49.0,5.3
+384,https://www.umn.edu,Education,FAST,8,No,Yes,Specto Design,45.0,3
+385,https://www.themoviedb.org,Entertainment,AVERAGE,8.3,No,Yes,Specto Design,92.0,1.5
+386,https://www.softonic.com,Technology,AVERAGE,2.5,No,Yes,Specto Design,90.0,0.8
+387,https://www.timeanddate.com,"Time and Date is in the ""Calendar and Time Management"" industry.",FAST,8.8,No,Yes,Specto Design,80.0,1.4
+388,https://www.tastingtable.com,Food and Beverage,FAST,12.9,No,Yes,Specto Design,72.0,3.3
+389,https://www.letras.com,Music industry,AVERAGE,4.4,No,Yes,Specto Design,77.0,1.4
+390,https://www.rent.com,Real Estate,AVERAGE,2,No,Yes,Specto Design,68.0,1
+391,https://www.un.org,Government/International Relations,AVERAGE,7,No,Yes,Specto Design,97.0,0.7
+392,https://www.oregon.gov,Government,SLOW,2.6,No,Yes,Specto Design,92.0,1
+393,https://www.last.fm,Music Streaming,AVERAGE,12.1,No,Yes,Specto Design,75.0,2.3
+394,https://www.ct.gov,Government,AVERAGE,5.1,No,Yes,Specto Design,80.0,1.6
+395,https://www.chegg.com,Education,SLOW,6.9,No,Yes,Specto Design,93.0,2.4
+396,https://www.nationalgeographic.com,Media/Entertainment,AVERAGE,8.3,No,Yes,Specto Design,44.0,3.1
+397,https://www.globenewswire.com,Media & Communications,FAST,5.7,No,Yes,Specto Design,84.0,1.2
+398,https://www.sportingnews.com,Sports,FAST,9.7,No,Yes,Specto Design,55.0,2.4
+399,https://www.prevention.com,Health and Wellness,FAST,11.8,No,Yes,Specto Design,66.0,2.2
+400,https://www.studocu.com,Education,AVERAGE,3.7,No,Yes,Specto Design,77.0,1
+401,https://www.nba.com,Sports,AVERAGE,13.9,No,Yes,Specto Design,29.0,5.9
+402,https://www.musixmatch.com,Music Technology,AVERAGE,7.4,No,Yes,Specto Design,63.0,2.1
+403,https://www.ulta.com,Beauty and cosmetics,AVERAGE,11.7,No,Yes,Specto Design,45.0,3.4
+404,https://www.accuweather.com,Weather forecasting,AVERAGE,7.5,No,Yes,Specto Design,80.0,1.3
+405,https://www.restaurantji.com,Food & Beverage,FAST,10.6,No,Yes,Specto Design,82.0,1.9
+406,https://www.history.com,Entertainment,FAST,8.5,No,Yes,Specto Design,61.0,2.4
+407,https://www.loveandlemons.com,Food & Beverage,FAST,6.2,No,Yes,Specto Design,97.0,0.5
+408,https://www.morningstar.com,Financial Services,SLOW,13.5,No,Yes,Specto Design,54.0,3.5
+409,https://www.rocketreach.co,Technology,SLOW,9.8,No,Yes,Specto Design,35.0,3.3
+410,https://www.squarespace.com,Technology,AVERAGE,5.8,No,Yes,Specto Design,75.0,1.2
+411,https://www.bandcamp.com,Music Streaming,AVERAGE,6.6,No,Yes,Specto Design,64.0,2.3
+412,https://www.cmac.ws,Education,FAST,6,No,Yes,Specto Design,94.0,1.3
+413,https://www.frontiersin.org,Academic Publishing,SLOW,6.8,No,Yes,Specto Design,69.0,2.1
+414,https://www.georgia.gov,Government,FAST,13.1,No,Yes,Specto Design,66.0,2.3
+415,https://www.hm.com,Retail,SLOW,7.8,No,Yes,Specto Design,73.0,1.8
+416,https://www.glamour.com,Fashion,FAST,29.4,No,Yes,Specto Design,16.0,8.1
+417,https://www.asos.com,Retail/E-commerce,AVERAGE,7,No,Yes,Specto Design,68.0,1.2
+418,https://www.thoughtco.com,Education,FAST,4.8,No,Yes,Specto Design,88.0,1.3
+419,https://www.capitalone.com,Financial Services,SLOW,10,No,Yes,Specto Design,36.0,5.2
+420,https://www.tsa.gov,Government,FAST,4.4,No,Yes,Specto Design,78.0,1.1
+421,https://www.eatingwell.com,Food and Beverage,FAST,5.5,No,Yes,Specto Design,74.0,1.8
+422,https://www.businesswire.com,Media & Communications,SLOW,9.3,No,Yes,Specto Design,56.0,1.8
+423,https://www.bleacherreport.com,Sports,AVERAGE,7.8,No,Yes,Specto Design,42.0,3.6
+424,https://www.zdnet.com,Technology,SLOW,22.3,No,Yes,Specto Design,39.0,5.2
+425,https://www.state.mn.us,Government,SLOW,4.9,No,Yes,Specto Design,67.0,1.7
+426,https://www.marthastewart.com,Lifestyle and Media,FAST,5.5,No,Yes,Specto Design,68.0,1.9
+427,https://www.livescience.com,Media,FAST,17.9,No,Yes,Specto Design,52.0,7.4
+428,https://www.colorado.gov,Government,FAST,7.1,No,Yes,Specto Design,84.0,1
+429,https://www.worldatlas.com,Education,FAST,3.5,No,Yes,Specto Design,100.0,0.4
+430,https://www.pixabay.com,Photography,AVERAGE,5.6,No,Yes,Specto Design,88.0,1.1
+431,https://www.as.com,Sports,FAST,6.7,No,Yes,Specto Design,86.0,2
+432,https://www.primevideo.com,Entertainment,AVERAGE,7.3,No,Yes,Specto Design,85.0,1.6
+433,https://www.roku.com,Technology,AVERAGE,4.5,No,Yes,Specto Design,98.0,0.6
+434,https://www.omnicalculator.com,Technology,FAST,5.4,No,Yes,Specto Design,84.0,0.7
+435,https://www.usa.gov,Government,AVERAGE,5.4,No,Yes,Specto Design,96.0,0.7
+436,https://www.mlive.com,Media,AVERAGE,14.1,No,Yes,Specto Design,58.0,3.4
+437,https://www.food52.com,Food & Beverage,SLOW,17.2,No,Yes,Specto Design,21.0,5.5
+438,https://www.postmates.com,Food Delivery,AVERAGE,4.4,No,Yes,Specto Design,63.0,2.9
+439,https://www.comicbook.com,Entertainment,FAST,8.9,No,Yes,Specto Design,53.0,3
+440,https://www.mountsinai.org,Healthcare,SLOW,12,No,Yes,Specto Design,36.0,3.2
+441,https://www.hilton.com,Hospitality,SLOW,13.3,No,Yes,Specto Design,3.4,error
+442,https://www.plex.tv,Entertainment,AVERAGE,11.7,No,Yes,Specto Design,85.0,1.4
+443,https://www.dillards.com,Retail,SLOW,8.6,No,Yes,Specto Design,50.0,3.9
+444,https://www.columbia.edu,Education,AVERAGE,18.2,No,Yes,Specto Design,23.0,3.4
+445,https://www.trivago.com,Hospitality/Tourism,AVERAGE,5.2,No,Yes,Specto Design,80.0,1.3
+446,https://www.toasttab.com,Hospitality,SLOW,5.7,No,Yes,Specto Design,84.0,1.9
+447,https://www.usmagazine.com,Media & News,AVERAGE,32.4,No,No,Specto Design,53.0,6.9
+448,https://www.nexusmods.com,Gaming,AVERAGE,11.5,No,Yes,Specto Design,57.0,2.9
+449,https://www.utah.gov,Government,AVERAGE,9,No,Yes,Specto Design,87.0,2.2
+450,https://www.newyorker.com,Media & Publishing,AVERAGE,25.3,No,Yes,Specto Design,34.0,7.7
+451,https://www.bringfido.com,Travel and Tourism,FAST,5.7,No,Yes,Specto Design,99.0,0.7
+452,https://www.byrdie.com,Beauty and cosmetics,FAST,5.1,No,Yes,Specto Design,72.0,2.1
+453,https://www.mensjournal.com,Media & News,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+454,https://www.radiotimes.com,Media & Entertainment,AVERAGE,9.6,No,Yes,Specto Design,54.0,3
+455,https://www.ucdavis.edu,Education,FAST,9.3,No,Yes,Specto Design,81.0,2.6
+456,https://www.marca.com,Sports,FAST,10.4,No,Yes,Specto Design,65.0,2.4
+457,https://www.newegg.com,Retail/E-commerce,AVERAGE,10.2,No,Yes,Specto Design,49.0,3.7
+458,https://www.foursquare.com,Technology,AVERAGE,4.7,No,Yes,Specto Design,78.0,1.3
+459,https://www.calculator.net,Technology,AVERAGE,0.8,Yes,Yes,Specto Design,100.0,0.4
+460,https://www.chicagotribune.com,Media,AVERAGE,20,No,Yes,Specto Design,Blocked,Blocked
+461,https://www.purdue.edu,Education,AVERAGE,17.7,No,Yes,Specto Design,69.0,2.7
+462,https://www.biomedcentral.com,Publishing,AVERAGE,3.9,No,Yes,Specto Design,79.0,0.7
+463,https://www.dot.gov,Government,FAST,6.9,No,Yes,Specto Design,73.0,1.6
+464,https://www.autotrader.com,Automotive industry,AVERAGE,7.5,No,Yes,Specto Design,59.0,2.9
+465,https://www.polygon.com,Media & Entertainment,AVERAGE,9,No,Yes,Specto Design,62.0,3.2
+466,https://www.healthdirect.gov.au,Healthcare,AVERAGE,12.1,No,Yes,Specto Design,52.0,2.2
+467,https://www.everydayhealth.com,Health and Wellness,AVERAGE,12.4,No,Yes,Specto Design,26.0,3.5
+468,https://www.gq.com,Fashion,AVERAGE,21.6,No,Yes,Specto Design,18.0,5.9
+469,https://www.encyclopedia.com,Education,AVERAGE,15.1,No,Yes,Specto Design,69.0,2.9
+470,https://www.betterhealth.vic.gov.au,Healthcare,FAST,9.5,No,Yes,Specto Design,58.0,2.9
+471,https://www.medscape.com,Healthcare,SLOW,9.5,No,Yes,Specto Design,82.0,1.6
+472,https://www.osu.edu,Education,SLOW,9.5,No,Yes,Specto Design,40.0,2.4
+473,https://www.popsugar.com,Media and Entertainment,AVERAGE,11.9,No,Yes,Specto Design,60.0,3.4
+474,https://www.wikidata.org,Information Technology,AVERAGE,6,No,Yes,Specto Design,98.0,1.4
+475,https://www.wisc.edu,Education,FAST,5.6,No,Yes,Specto Design,88.0,0.8
+476,https://www.thesaurus.com,Reference/Thesaurus,AVERAGE,18.5,No,Yes,Specto Design,59.0,6.3
+477,https://www.hgtv.com,Home and Garden,FAST,7.4,No,Yes,Specto Design,88.0,2.2
+478,https://www.ford.com,Automotive,AVERAGE,7,No,Yes,Specto Design,53.0,2.6
+479,https://www.kiddle.co,Technology,AVERAGE,1.6,Yes,Yes,Specto Design,100.0,0.6
+480,https://www.niche.com,Education,FAST,3.9,No,Yes,Specto Design,71.0,1.9
+481,https://www.seattletimes.com,Media,FAST,9.8,No,Yes,Specto Design,50.0,4
+482,https://www.nj.com,Media,FAST,13.5,No,Yes,Specto Design,49.0,3.2
+483,https://www.ultimate-guitar.com,Music/Entertainment,AVERAGE,1.9,Yes,Yes,Specto Design,64.0,2.4
+484,https://www.bankrate.com,Finance,FAST,4,No,Yes,Specto Design,82.0,1.1
+485,https://www.ft.com,Media,FAST,8.8,No,Yes,Specto Design,92.0,1.9
+486,https://www.axios.com,Media,FAST,11.5,No,Yes,Specto Design,63.0,2.5
+487,https://www.imgur.com,Technology,FAST,14.6,No,Yes,Specto Design,40.0,3.6
+488,https://www.howtogeek.com,Technology,FAST,12.1,No,Yes,Specto Design,57.0,3.4
+489,https://www.bonappetit.com,Food and Beverage,AVERAGE,22.3,No,Yes,Specto Design,23.0,6.6
+490,https://www.commonsensemedia.org,Media and Entertainment,FAST,5.1,No,Yes,Specto Design,72.0,1.4
+491,https://www.petmd.com,Pet care,SLOW,10.4,No,Yes,Specto Design,53.0,1.9
+492,https://www.nbcsports.com,Sports,FAST,13.5,No,Yes,Specto Design,81.0,3.2
+493,https://www.singleplatform.com,Technology,AVERAGE,5.4,No,Yes,Specto Design,92.0,1.9
+494,https://www.pcgamer.com,Gaming,FAST,22.3,No,Yes,Specto Design,58.0,6.4
+495,https://www.delta.com,Airline industry,SLOW,11.5,No,Yes,Specto Design,20.0,3.8
+496,https://www.simplyhired.com,Job search and recruitment,AVERAGE,5.3,No,Yes,Specto Design,81.0,1.9
+497,https://www.company-information.service.gov.uk,Media & News,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+498,https://www.zmenu.com,Food & Beverage,SLOW,9.3,No,Yes,Specto Design,64.0,3.5
+499,https://www.nasdaq.com,Finance,AVERAGE,9.3,No,Yes,Specto Design,65.0,2.3
+500,https://www.remax.com,Real Estate,AVERAGE,4.2,No,Yes,Specto Design,69.0,1.9
+501,https://www.thesun.co.uk,Media & News,FAST,7.8,No,Yes,Specto Design,58.0,4.1
+502,https://www.lifewire.com,Technology,FAST,5.2,No,Yes,Specto Design,80.0,1.7
+503,https://www.jdpower.com,Market Research,SLOW,11,No,Yes,Specto Design,38.0,4.2
+504,https://www.marketwatch.com,Media & News,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+505,https://www.gardenweb.com,Home and Garden,AVERAGE,4.4,No,Yes,Specto Design,67.0,1.7
+506,https://www.bls.gov,Government,AVERAGE,2.6,Yes,Yes,Specto Design,96.0,0.8
+507,https://www.berkeley.edu,Education,AVERAGE,6.4,No,Yes,Specto Design,90.0,0.8
+508,https://www.fiveable.me,Education,Unknown,7.8,No,Yes,Specto Design,84.0,1.2
+509,https://www.aa.com,Airline,SLOW,14.1,No,Yes,Specto Design,42.0,5.3
+510,https://www.playstation.com,Gaming,SLOW,11.3,No,Yes,Specto Design,34.0,3.7
+511,https://www.statista.com,Market research.,SLOW,5.6,No,Yes,Specto Design,55.0,1.6
+512,https://www.findlaw.com,Legal Services,FAST,7,No,Yes,Specto Design,63.0,2.3
+513,https://www.slashgear.com,Technology,FAST,2.7,Yes,Yes,Specto Design,98.0,0.4
+514,https://www.oed.com,Publishing,SLOW,7.4,No,Yes,Specto Design,75.0,4.1
+515,https://www.bankofamerica.com,Finance,SLOW,9.5,No,Yes,Specto Design,47.0,3.1
+516,https://www.harpersbazaar.com,Fashion,AVERAGE,12.1,No,Yes,Specto Design,48.0,4.2
+517,https://www.tandfonline.com,Publishing,SLOW,10.2,No,Yes,Specto Design,54.0,1
+518,https://www.upenn.edu,Education,FAST,2.9,No,Yes,Specto Design,92.0,0.7
+519,https://www.spiceworks.com,Information Technology,SLOW,17.2,No,Yes,Specto Design,53.0,3.9
+520,https://www.kidshealth.org,Healthcare,SLOW,3.6,No,Yes,Specto Design,77.0,1.8
+521,https://www.indiamart.com,E-commerce,AVERAGE,3.4,Yes,Yes,Specto Design,69.0,2.9
+522,https://www.chron.com,Media,AVERAGE,22.5,No,Yes,Specto Design,57.0,error
+523,https://www.metacritic.com,Media & Entertainment,AVERAGE,15,No,Yes,Specto Design,36.0,3.7
+524,https://www.dollartree.com,Retail,SLOW,18.3,No,Yes,Specto Design,12.0,6.8
+525,https://www.trustpilot.com,Review platform,AVERAGE,7.1,No,Yes,Specto Design,51.0,1.7
+526,https://www.refinery29.com,Media & Publishing,AVERAGE,13.6,No,Yes,Specto Design,80.0,1.2
+527,https://www.startribune.com,Media,AVERAGE,28.2,No,Yes,Specto Design,32.0,error
+528,https://www.dol.gov,Government,FAST,9.3,No,Yes,Specto Design,74.0,2.3
+529,https://www.wattpad.com,Technology/Online Publishing,AVERAGE,3.6,No,Yes,Specto Design,92.0,0.7
+530,https://www.superuser.com,Technology,FAST,8.3,No,Yes,Specto Design,57.0,1.9
+531,https://www.biblegateway.com,Religion/Christianity,FAST,3.4,Yes,Yes,Specto Design,79.0,1.3
+532,https://www.thebump.com,Parenting/Maternity/Baby Products,AVERAGE,12,No,Yes,Specto Design,77.0,1.8
+533,https://www.letterboxd.com,Entertainment,AVERAGE,11.7,No,Yes,Specto Design,31.0,5.7
+534,https://www.publix.com,Retail,AVERAGE,7.1,No,Yes,Specto Design,44.0,2.4
+535,https://www.simon.com,Retail,AVERAGE,11,No,Yes,Specto Design,81.0,1.9
+536,https://www.sirved.com,Hospitality,AVERAGE,3.7,No,Yes,Specto Design,98.0,1.2
+537,https://www.mirror.co.uk,Media,AVERAGE,12.1,No,Yes,Specto Design,41.0,4.3
+538,https://www.anthropologie.com,Retail,SLOW,3.6,Yes,Yes,Specto Design,98.0,1.1
+539,https://www.kaiserpermanente.org,Healthcare,SLOW,11.4,No,Yes,Specto Design,39.0,4.1
+540,https://www.usgs.gov,Government,AVERAGE,8.8,No,Yes,Specto Design,59.0,1.9
+541,https://www.rateyourmusic.com,Music Entertainment,AVERAGE,2.3,Yes,Yes,Specto Design,39.0,3.3
+542,https://www.doityourself.com,Home improvement,FAST,11.5,No,Yes,Specto Design,65.0,2.3
+543,https://www.mozilla.org,Technology,AVERAGE,1.4,Yes,Yes,Specto Design,95.0,0.5
+544,https://www.scmp.com,Media,AVERAGE,18.3,No,Yes,Specto Design,38.0,5.9
+545,https://www.fivebelow.com,Retail,SLOW,11.4,No,Yes,Specto Design,36.0,9.6
+546,https://www.vrbo.com,Hospitality/Tourism,AVERAGE,6,No,Yes,Specto Design,69.0,2.3
+547,https://www.thetimes.com,Media,AVERAGE,37.8,No,Yes,Specto Design,60.0,4.4
+548,https://www.ky.gov,Government / State Government,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+549,https://www.yale.edu,Education,FAST,6.2,No,Yes,Specto Design,93.0,1
+550,https://www.rd.com,Publishing,SLOW,5.4,No,Yes,Specto Design,97.0,0.7
+551,https://www.arcgis.com,Technology,SLOW,14.1,No,Yes,Specto Design,88.0,1.9
+552,https://www.247sports.com,Sports,FAST,20.6,No,Yes,Specto Design,6.0,error
+553,https://www.movoto.com,Real Estate,FAST,3.5,Yes,Yes,Specto Design,75.0,1.4
+554,https://www.house.gov,Government,FAST,5.9,No,Yes,Specto Design,87.0,0.7
+555,https://www.wholefoodsmarket.com,Retail Grocery,AVERAGE,4.9,No,Yes,Specto Design,69.0,1.7
+556,https://www.decider.com,Entertainment,FAST,12.3,No,Yes,Specto Design,47.0,6
+557,https://www.game8.co,Media / Gaming Guides & Reviews,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+558,https://www.makeuseof.com,Technology,AVERAGE,8.8,No,Yes,Specto Design,64.0,error
+559,https://www.ck12.org,Education,SLOW,4.3,No,Yes,Specto Design,85.0,1.3
+560,https://www.acs.org,Chemical industry,AVERAGE,5.8,No,Yes,Specto Design,69.0,1.1
+561,https://www.weddingwire.com,Wedding Planning,AVERAGE,8.6,No,Yes,Specto Design,69.0,1.3
+562,https://www.thespruceeats.com,Food and Beverage,FAST,6.8,No,Yes,Specto Design,70.0,2
+563,https://www.fedex.com,Logistics,SLOW,2.2,Yes,Yes,Specto Design,100.0,0.4
+564,https://www.nsw.gov.au,Government,AVERAGE,7.1,No,Yes,Specto Design,54.0,1.5
+565,https://www.shazam.com,Music Streaming,AVERAGE,3.3,No,Yes,Specto Design,93.0,0.9
+566,https://www.af.mil,Government/Military,SLOW,10.8,No,Yes,Specto Design,43.0,4.3
+567,https://www.esquire.com,Media & Publishing,AVERAGE,8.1,No,Yes,Specto Design,58.0,3.1
+568,https://www.investing.com,Finance,SLOW,14.4,No,Yes,Specto Design,37.0,11.4
+569,https://www.amazon.co.uk,E-commerce,FAST,4.3,Yes,Yes,Specto Design,93.0,2
+570,https://www.welltrainedmind.com,Education,AVERAGE,9.4,No,Yes,Specto Design,71.0,2.7
+571,https://www.msu.edu,Education,AVERAGE,9.7,No,Yes,Specto Design,52.0,2.9
+572,https://www.adidas.com,Apparel & Footwear,AVERAGE,10.6,No,Yes,Specto Design,56.0,3.4
+573,https://www.fortune.com,Media & Publishing,AVERAGE,16.1,No,Yes,Specto Design,58.0,7.2
+574,https://www.smithsonianmag.com,Media & Publishing,SLOW,5.5,No,Yes,Specto Design,59.0,error
+575,https://www.indianexpress.com,Media,FAST,7.8,No,Yes,Specto Design,59.0,7.9
+576,https://www.sfgate.com,Media,AVERAGE,20.2,No,Yes,Specto Design,60.0,9.5
+577,https://www.priceline.com,Travel and Hospitality,SLOW,8.3,No,Yes,Specto Design,60.0,3.2
+578,https://www.cinemablend.com,Entertainment,AVERAGE,13.3,No,Yes,Specto Design,61.0,3.3
+579,https://www.famousbirthdays.com,Entertainment,FAST,6.2,No,Yes,Specto Design,62.0,2
+580,https://www.shein.com,Fashion,SLOW,19.7,No,Yes,Specto Design,55.0,6.4
+581,https://www.infobae.com,Media,FAST,11.6,No,Yes,Specto Design,66.0,3.3
+582,https://www.illinois.edu,Education,SLOW,7.4,No,Yes,Specto Design,26.0,3.8
+583,https://www.nfl.com,Sports,AVERAGE,9,No,Yes,Specto Design,36.0,8.5
+584,https://www.azlyrics.com,Music Entertainment,AVERAGE,25.1,No,Yes,Specto Design,53.0,9.6
+585,https://www.wanderlog.com,Travel and Tourism,AVERAGE,16.3,No,Yes,Specto Design,53.0,4.9
+586,https://www.churchofjesuschrist.org,Religion,AVERAGE,3.6,No,Yes,Specto Design,74.0,1
+587,https://www.lemon8-app.com,Technology,AVERAGE,6,No,Yes,Specto Design,93.0,1.2
+588,https://www.klarna.com,Financial Technology (FinTech),AVERAGE,4.2,No,Yes,Specto Design,59.0,1.4
+589,https://www.hotelplanner.com,Hospitality,AVERAGE,11.2,No,Yes,Specto Design,44.0,3.8
+590,https://www.ncsu.edu,Education,AVERAGE,8.3,No,Yes,Specto Design,73.0,1.6
+591,https://www.abebooks.com,E-commerce,AVERAGE,4.8,No,Yes,Specto Design,83.0,1
+592,https://www.mercari.com,E-commerce,SLOW,13.5,No,Yes,Specto Design,25.0,3.5
+593,https://www.staples.com,Retail,SLOW,5.5,No,Yes,Specto Design,86.0,2.8
+594,https://www.oreillyauto.com,Automotive industry,AVERAGE,8.9,No,Yes,Specto Design,52.0,3.5
+595,https://www.ed.gov,Education,AVERAGE,8.4,No,Yes,Specto Design,87.0,error
+596,https://www.seamless.com,Food Delivery,SLOW,9.2,No,Yes,Specto Design,55.0,3.1
+597,https://www.findmeglutenfree.com,Food & Beverage,FAST,3.6,Yes,Yes,Specto Design,99.0,0.5
+598,https://www.biblestudytools.com,Religious/Spiritual,AVERAGE,11.8,No,Yes,Specto Design,70.0,2.6
+599,https://www.lonelyplanet.com,Travel and Tourism,AVERAGE,6.3,No,Yes,Specto Design,66.0,1.8
+600,https://www.housebeautiful.com,Home and Interior Design,FAST,11.1,No,Yes,Specto Design,65.0,2.2
+601,https://www.chewy.com,E-commerce,AVERAGE,9.7,No,Yes,Specto Design,50.0,3.7
+602,https://www.xbox.com,Gaming,SLOW,12.1,No,Yes,Specto Design,46.0,3.7
+603,https://www.w3schools.com,Education,FAST,5,No,Yes,Specto Design,98.0,0.8
+604,https://www.a-z-animals.com,Education,SLOW,6.5,No,Yes,Specto Design,76.0,3
+605,https://www.amtrak.com,Transportation,SLOW,22.6,No,Yes,Specto Design,24.0,error
+606,https://www.bloomingdales.com,Retail,AVERAGE,20,No,Yes,Specto Design,52.0,5.9
+607,https://www.techtarget.com,Technology,AVERAGE,10.3,No,Yes,Specto Design,57.0,4.1
+608,https://www.cylex.us.com,Business Directory,AVERAGE,5.4,No,Yes,Specto Design,85.0,1.8
+609,https://www.lumenlearning.com,Education,Unknown,6.3,No,Yes,Specto Design,83.0,2.3
+610,https://www.carbuzz.com,Automotive,FAST,12.4,No,Yes,Specto Design,53.0,6
+611,https://www.wtop.com,Media / News & Radio,FAST,17.7,No,No,Specto Design,Blocked,Blocked
+612,https://www.fandango.com,Entertainment,AVERAGE,22.2,No,Yes,Specto Design,34.0,6.5
+613,https://www.resetera.com,Gaming/Video Games,FAST,19.2,No,Yes,Specto Design,41.0,5.7
+614,https://www.wellsfargo.com,Financial Services,FAST,5.9,No,Yes,Specto Design,76.0,1.7
+615,https://www.al.com,Media,FAST,16.4,No,Yes,Specto Design,61.0,3.4
+616,https://www.petsmart.com,Retail,SLOW,6.7,No,Yes,Specto Design,64.0,1.8
+617,https://www.t-mobile.com,Telecommunications,AVERAGE,8.3,No,Yes,Specto Design,80.0,1.9
+618,https://www.spanishdict.com,Education,AVERAGE,12.2,No,Yes,Specto Design,66.0,1.8
+619,https://www.vectorstock.com,Stock photography,AVERAGE,5.5,No,Yes,Specto Design,97.0,0.8
+620,https://www.roadtrippers.com,Travel and Tourism,AVERAGE,13.9,No,Yes,Specto Design,48.0,6.3
+621,https://www.allure.com,Beauty & Fashion,AVERAGE,20.7,No,Yes,Specto Design,59.0,error
+622,https://www.milb.com,Sports,AVERAGE,35.1,No,Yes,Specto Design,29.0,error
+623,https://www.nbc.com,Media & Entertainment,SLOW,10.5,No,Yes,Specto Design,75.0,1.7
+624,https://www.vedantu.com,Education,SLOW,10.8,No,Yes,Specto Design,18.0,error
+625,https://www.autoevolution.com,Automotive,AVERAGE,6.4,No,Yes,Specto Design,95.0,1.2
+626,https://www.azcentral.com,Media,FAST,15.8,No,Yes,Specto Design,56.0,5.1
+627,https://www.pitchbook.com,Financial Services,AVERAGE,10,No,Yes,Specto Design,75.0,1.8
+628,https://www.coldwellbankerhomes.com,Real Estate,SLOW,6.6,No,Yes,Specto Design,77.0,2.1
+629,https://www.compass.com,Real Estate,FAST,4.8,No,Yes,Specto Design,67.0,1.2
+630,https://www.theatlantic.com,Media & Publishing,FAST,10.9,No,Yes,Specto Design,63.0,2
+631,https://www.diy.com,Retail,SLOW,10.5,No,Yes,Specto Design,40.0,4.5
+632,https://www.americanexpress.com,Financial Services,SLOW,5.7,No,Yes,Specto Design,59.0,2.1
+633,https://www.united.com,Airline,SLOW,28.8,No,Yes,Specto Design,25.0,error
+634,https://www.utah.edu,Education,SLOW,11.1,No,Yes,Specto Design,41.0,4.4
+635,https://www.officedepot.com,Retail,SLOW,12.8,No,Yes,Specto Design,48.0,3.9
+636,https://www.gap.com,Retail,AVERAGE,9.8,No,Yes,Specto Design,44.0,3.2
+637,https://www.soapcentral.com,Entertainment,FAST,3.7,Yes,Yes,Specto Design,95.0,0.7
+638,https://www.cleveland.com,Media,FAST,14.5,No,Yes,Specto Design,47.0,3.1
+639,https://www.hhs.gov,Government,SLOW,4.3,No,Yes,Specto Design,66.0,1.5
+640,https://www.metafilter.com,Media/Online Community,FAST,4.2,Yes,Yes,Specto Design,96.0,1.1
+641,https://www.pressbooks.pub,Education / Self-Publishing Tools,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+642,https://www.sagepub.com,Publishing,SLOW,7.4,No,Yes,Specto Design,87.0,1.3
+643,https://www.com.be,Likely Placeholder / Domain Parked,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+644,https://www.zippia.com,Career Services,SLOW,9.6,No,Yes,Specto Design,79.0,1
+645,https://www.collegeboard.org,Education,SLOW,4.1,No,Yes,Specto Design,50.0,1.7
+646,https://www.amazon.in,E-commerce,AVERAGE,6.2,Yes,Yes,Specto Design,81.0,3.1
+647,https://www.alberta.ca,Government,AVERAGE,6.8,No,Yes,Specto Design,86.0,0.9
+648,https://www.cbp.gov,Government,FAST,6.1,No,Yes,Specto Design,78.0,1.1
+649,https://www.urbandictionary.com,Internet Technology,FAST,2.7,Yes,Yes,Specto Design,98.0,0.7
+650,https://www.jhu.edu,Education,SLOW,5,No,Yes,Specto Design,57.0,1.3
+651,https://www.themirror.com,Media/News,AVERAGE,15.4,No,Yes,Specto Design,43.0,5.8
+652,https://www.thewrap.com,Media & Entertainment,AVERAGE,11.9,No,Yes,Specto Design,60.0,3.3
+653,https://www.architecturaldigest.com,Publishing,AVERAGE,21,No,Yes,Specto Design,37.0,5.9
+654,https://www.babycenter.com,Parenting/Maternity/Baby Products,SLOW,20.9,No,Yes,Specto Design,38.0,4.8
+655,https://www.boomplay.com,Music Streaming,SLOW,3.5,No,Yes,Specto Design,87.0,1.1
+656,https://www.momondo.com,Travel and Tourism,AVERAGE,8.6,No,Yes,Specto Design,41.0,3
+657,https://www.ucla.edu,Education,SLOW,14.5,No,Yes,Specto Design,69.0,2.7
+658,https://www.fextralife.com,Gaming,FAST,3.9,Yes,Yes,Specto Design,37.0,6.3
+659,https://www.testbook.com,Education,SLOW,8.8,No,Yes,Specto Design,65.0,3.1
+660,https://www.slate.com,Media,FAST,12.8,No,Yes,Specto Design,46.0,4.6
+661,https://www.thestreet.com,Media & News,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+662,https://www.sallysbakingaddiction.com,Food and Beverage,FAST,8.4,No,Yes,Specto Design,94.0,0.9
+663,https://www.website-files.com,Technology / Web Development Hosting,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+664,https://www.science.org,Science and Research,AVERAGE,13.7,No,Yes,Specto Design,19.0,4
+665,https://www.alltrails.com,Outdoor Recreation,AVERAGE,13.9,No,Yes,Specto Design,52.0,3.3
+666,https://www.rentcafe.com,Real Estate,AVERAGE,5.2,No,Yes,Specto Design,95.0,1.3
+667,https://www.livestrong.com,Health and wellness,FAST,20.4,No,Yes,Specto Design,57.0,2.2
+668,https://www.apa.org,Psychology,AVERAGE,9.3,No,Yes,Specto Design,47.0,3.1
+669,https://www.ihg.com,Hospitality,SLOW,11.8,No,Yes,Specto Design,15.0,3.6
+670,https://www.masterclass.com,Education,AVERAGE,10,No,Yes,Specto Design,64.0,1.9
+671,https://www.zazzle.com,E-commerce,AVERAGE,8.2,No,Yes,Specto Design,79.0,1.4
+672,https://www.dexerto.com,Gaming and esports,AVERAGE,10.7,No,Yes,Specto Design,57.0,5.1
+673,https://www.oxfordlearnersdictionaries.com,Education,AVERAGE,6.4,No,Yes,Specto Design,62.0,2.1
+674,https://www.arstechnica.com,Technology,FAST,10.7,No,Yes,Specto Design,66.0,error
+675,https://www.archives.gov,Government,FAST,5.5,No,Yes,Specto Design,66.0,0.9
+676,https://www.nintendo.com,Gaming,SLOW,18.2,No,Yes,Specto Design,30.0,6.6
+677,https://www.johnlewis.com,Retail,FAST,7,No,Yes,Specto Design,72.0,error
+678,https://www.unc.edu,Education,AVERAGE,7.7,No,Yes,Specto Design,75.0,1.1
+679,https://www.hulu.com,Entertainment,AVERAGE,4.9,No,Yes,Specto Design,47.0,1.3
+680,https://www.epicurious.com,Food and Beverage,AVERAGE,19.8,No,Yes,Specto Design,34.0,error
+681,https://www.nordstromrack.com,Retail,SLOW,9.3,No,Yes,Specto Design,100.0,0.7
+682,https://www.tamu.edu,Education,AVERAGE,9.6,No,Yes,Specto Design,73.0,1.6
+683,https://www.post-gazette.com,Media,AVERAGE,20.5,No,Yes,Specto Design,38.0,7.3
+684,https://www.sephora.com,Beauty and cosmetics,SLOW,14.3,No,Yes,Specto Design,60.0,4.1
+685,https://www.homesandgardens.com,Home and Garden,AVERAGE,17.8,No,Yes,Specto Design,58.0,6.4
+686,https://www.worthpoint.com,E-commerce,AVERAGE,3.8,Yes,Yes,Specto Design,75.0,1.3
+687,https://www.ibm.com,Technology,SLOW,23.4,No,Yes,Specto Design,23.0,6.5
+688,https://www.instyle.com,Fashion,FAST,5,No,Yes,Specto Design,64.0,2.4
+689,https://www.lacounty.gov,Government,AVERAGE,8.3,No,Yes,Specto Design,50.0,3.1
+690,https://www.ricksteves.com,Travel and Tourism,SLOW,2.9,No,Yes,Specto Design,69.0,0.9
+691,https://www.justdial.com,Local search and business directory,AVERAGE,5.2,Yes,Yes,Specto Design,80.0,1.7
+692,https://www.news-medical.net,Healthcare,FAST,4.3,No,Yes,Specto Design,94.0,1.1
+693,https://www.lego.com,Toy Manufacturing,SLOW,11.8,No,Yes,Specto Design,57.0,3.7
+694,https://www.cuny.edu,Education,AVERAGE,4.7,No,Yes,Specto Design,56.0,2.1
+695,https://www.purewow.com,Media & Publishing,AVERAGE,3.5,No,Yes,Specto Design,65.0,1.5
+696,https://www.chase.com,Finance,SLOW,5.2,No,Yes,Specto Design,45.0,2.1
+697,https://www.letras.mus.br,Music industry,AVERAGE,4.9,No,Yes,Specto Design,77.0,0.9
+698,https://www.apartmenttherapy.com,Home and Interior Design,AVERAGE,12.7,No,Yes,Specto Design,44.0,4.7
+699,https://www.mn.gov,Government,SLOW,5,No,Yes,Specto Design,64.0,2.2
+700,https://www.vox.com,Media,AVERAGE,14.3,No,Yes,Specto Design,58.0,3.9
+701,https://www.findhelp.org,Non-profit organization,SLOW,4.4,No,Yes,Specto Design,94.0,1
+702,https://www.dignitymemorial.com,Funeral Services,FAST,8.8,No,Yes,Specto Design,59.0,1.4
+703,https://www.twitch.tv,Entertainment,SLOW,9.3,No,Yes,Specto Design,41.0,3.8
+704,https://www.forrent.com,Real Estate,AVERAGE,9,No,Yes,Specto Design,89.0,2
+705,https://www.lifehacker.com,Technology,FAST,15.7,No,Yes,Specto Design,48.0,error
+706,https://www.essentiallysports.com,Sports,FAST,6.1,No,Yes,Specto Design,78.0,0.9
+707,https://www.akc.org,Pet care/Animal welfare,SLOW,8.5,No,Yes,Specto Design,60.0,2.3
+708,https://www.maine.gov,Government,AVERAGE,5.1,No,Yes,Specto Design,84.0,0.8
+709,https://www.utexas.edu,Education,FAST,5.2,No,Yes,Specto Design,72.0,0.9
+710,https://www.hp.com,Technology,SLOW,8,No,Yes,Specto Design,66.0,2.3
+711,https://www.craiyon.com,Art & Design,SLOW,10.9,No,Yes,Specto Design,34.0,error
+712,https://www.hyatt.com,Hospitality / Hotels & Lodging,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+713,https://www.uscourts.gov,Government/Legal,FAST,5.8,No,Yes,Specto Design,68.0,1.6
+714,https://www.pennlive.com,Media,FAST,14.1,No,Yes,Specto Design,45.0,3.6
+715,https://www.theglobeandmail.com,Media,FAST,16.8,No,Yes,Specto Design,44.0,3.9
+716,https://www.viator.com,Travel and Tourism,AVERAGE,8,No,Yes,Specto Design,3.2,error
+717,https://www.verywellmind.com,Health and Wellness,FAST,3.9,No,Yes,Specto Design,91.0,0.7
+718,https://www.thehindu.com,Media,AVERAGE,8.9,No,Yes,Specto Design,37.0,3.2
+719,https://www.stardewvalleywiki.com,Gaming,FAST,9,No,Yes,Specto Design,91.0,1.8
+720,https://www.tesla.com,Automotive,AVERAGE,16,No,Yes,Specto Design,39.0,error
+721,https://www.safeway.com,Retail grocery industry,SLOW,17.7,No,Yes,Specto Design,24.0,6.7
+722,https://www.1stdibs.com,E-commerce,AVERAGE,7.4,No,Yes,Specto Design,58.0,1.5
+723,https://www.timesnownews.com,Media & News,AVERAGE,24.7,No,Yes,Specto Design,60.0,4.7
+724,https://www.bleedingcool.com,Media & Entertainment,FAST,9.2,No,Yes,Specto Design,100.0,0.6
+725,https://www.intuit.com,Technology,SLOW,11.2,No,Yes,Specto Design,49.0,3.1
+726,https://www.hellomagazine.com,Media & Entertainment,AVERAGE,27.7,No,Yes,Specto Design,24.0,4
+727,https://www.birdeye.com,Marketing and Customer Experience,SLOW,1.7,Yes,Yes,Specto Design,93.0,0.7
+728,https://www.seatgeek.com,Ticketing/Events,AVERAGE,7.9,No,Yes,Specto Design,64.0,2.1
+729,https://www.vice.com,Media,FAST,16,No,Yes,Specto Design,69.0,2.6
+730,https://www.hinative.com,Education,AVERAGE,4.4,No,Yes,Specto Design,68.0,1.9
+731,https://www.wisconsin.gov,Government,AVERAGE,11.1,No,Yes,Specto Design,65.0,2.4
+732,https://www.att.com,Telecommunications,AVERAGE,6.4,No,Yes,Specto Design,53.0,error
+733,https://www.sfchronicle.com,Media,FAST,19.5,No,Yes,Specto Design,55.0,8.9
+734,https://www.sc.gov,Government,AVERAGE,15.5,No,Yes,Specto Design,55.0,2.9
+735,https://www.unsplash.com,Photography,AVERAGE,1.9,Yes,Yes,Specto Design,90.0,0.7
+736,https://www.masslive.com,Media,FAST,13.6,No,Yes,Specto Design,56.0,2.7
+737,https://www.tomshardware.com,Technology,AVERAGE,15.6,No,Yes,Specto Design,59.0,3.9
+738,https://www.whitehouse.gov,Government,FAST,3.5,No,Yes,Specto Design,97.0,0.7
+739,https://www.popularmechanics.com,Technology,FAST,12.1,No,Yes,Specto Design,52.0,3
+740,https://www.governmentjobs.com,Government/Employment,FAST,5,No,Yes,Specto Design,84.0,1.5
+741,https://www.zara.com,Retail,SLOW,8.8,No,Yes,Specto Design,50.0,2.9
+742,https://www.ajc.com,Media,AVERAGE,33.2,No,Yes,Specto Design,32.0,11.8
+743,https://www.deezer.com,Music Streaming,AVERAGE,3.7,No,Yes,Specto Design,96.0,1.5
+744,https://www.politico.com,Media,FAST,11.5,No,Yes,Specto Design,64.0,2
+745,https://www.hy-vee.com,Retail,SLOW,16.2,No,Yes,Specto Design,15.0,error
+746,https://www.aljazeera.com,Media,AVERAGE,16,No,Yes,Specto Design,56.0,4.1
+747,https://www.freep.com,Media,FAST,14.4,No,Yes,Specto Design,54.0,3.8
+748,https://www.biblehub.com,Religion/Christianity,AVERAGE,14.4,No,Yes,Specto Design,56.0,4.2
+749,https://www.starbucks.com,Food and Beverage,AVERAGE,2.9,No,Yes,Specto Design,64.0,1
+750,https://www.whowhatwear.com,Fashion,AVERAGE,27.1,No,Yes,Specto Design,60.0,6.5
+751,https://www.almanac.com,Agriculture & Gardening,FAST,6.3,No,Yes,Specto Design,48.0,2.5
+752,https://www.familyhandyman.com,Home improvement,FAST,5.4,No,Yes,Specto Design,95.0,1
+753,https://www.bjs.com,Retail,SLOW,10.4,No,Yes,Specto Design,37.0,5.9
+754,https://www.metro.co.uk,Media & News,FAST,16.2,No,Yes,Specto Design,59.0,4.4
+755,https://www.inspiredtaste.net,Food and Cooking,FAST,5.1,Yes,Yes,Specto Design,79.0,2.1
+756,https://www.lww.com,Publishing,SLOW,12.5,No,Yes,Specto Design,31.0,3.6
+757,https://www.abc7.com,Media,AVERAGE,26.8,No,Yes,Specto Design,35.0,6.1
+758,https://www.crateandbarrel.com,Retail,AVERAGE,9.1,No,Yes,Specto Design,59.0,2.4
+759,https://www.carmax.com,Automotive,AVERAGE,10,No,Yes,Specto Design,57.0,2.8
+760,https://www.whattoexpect.com,Healthcare,AVERAGE,12.1,No,Yes,Specto Design,70.0,2.2
+761,https://www.dhs.gov,Government,SLOW,8.4,No,Yes,Specto Design,66.0,1.4
+762,https://www.cms.gov,Healthcare,FAST,6.2,No,Yes,Specto Design,91.0,1
+763,https://www.heart.org,Healthcare,SLOW,0.8,Yes,Yes,Specto Design,100.0,0.2
+764,https://www.bhphotovideo.com,Retail/E-commerce,AVERAGE,4.2,No,Yes,Specto Design,63.0,2.6
+765,https://www.hud.gov,Government,FAST,21.1,No,Yes,Specto Design,60.0,8.5
+766,https://www.makemytrip.com,Travel and Tourism,SLOW,5.1,No,Yes,Specto Design,68.0,2.4
+767,https://www.nyu.edu,Education,AVERAGE,12.5,No,Yes,Specto Design,41.0,2.8
+768,https://www.oracle.com,Technology,AVERAGE,7.5,No,Yes,Specto Design,94.0,1.6
+769,https://www.allmusic.com,Music industry,AVERAGE,18.3,No,Yes,Specto Design,48.0,4.6
+770,https://www.nhl.com,Sports,FAST,9.6,No,Yes,Specto Design,40.0,error
+771,https://www.self.com,Health and wellness,AVERAGE,15.9,No,Yes,Specto Design,35.0,error
+772,https://www.farfetch.com,E-commerce,SLOW,6.6,No,Yes,Specto Design,64.0,2
+773,https://www.standard.co.uk,Media,FAST,13.1,No,Yes,Specto Design,68.0,5.4
+774,https://www.nvidia.com,Technology,AVERAGE,16.3,No,Yes,Specto Design,48.0,2.6
+775,https://www.uniqlo.com,Retail,SLOW,12.8,No,Yes,Specto Design,40.0,4.8
+776,https://www.gamestop.com,Retail,SLOW,10.7,No,Yes,Specto Design,37.0,error
+777,https://www.digitalspy.com,Media & Entertainment,FAST,6.8,No,Yes,Specto Design,70.0,1.8
+778,https://www.lululemon.com,Retail/Apparel,AVERAGE,19.7,No,Yes,Specto Design,44.0,4
+779,https://www.eurogamer.net,Gaming,FAST,4.6,No,Yes,Specto Design,66.0,2.1
+780,https://www.nv.gov,Government / State Government,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+781,https://www.onceuponachef.com,Food & Beverage,FAST,3,No,Yes,Specto Design,95.0,1
+782,https://www.pexels.com,Photography,SLOW,5.1,No,Yes,Specto Design,83.0,0.8
+783,https://www.getyourguide.com,Travel and Tourism,AVERAGE,5,No,Yes,Specto Design,61.0,1.8
+784,https://www.travelmath.com,Travel and Tourism,AVERAGE,15.6,No,Yes,Specto Design,58.0,4.8
+785,https://www.washington.edu,Education,AVERAGE,6.8,No,Yes,Specto Design,67.0,2.7
+786,https://www.indiatoday.in,Media,SLOW,12.5,No,Yes,Specto Design,70.0,2.2
+787,https://www.wise.com,Finance,SLOW,8.6,No,Yes,Specto Design,41.0,3.7
+788,https://www.parents.com,Parenting/Media,FAST,5.1,No,Yes,Specto Design,64.0,2.8
+789,https://www.shopify.com,E-commerce,AVERAGE,5.6,No,Yes,Specto Design,83.0,0.9
+790,https://www.apartmentguide.com,Real Estate,FAST,2,No,Yes,Specto Design,71.0,0.8
+791,https://www.patient.info,Healthcare,FAST,7.6,No,Yes,Specto Design,69.0,3
+792,https://www.proboards.com,Technology,FAST,6.9,No,Yes,Specto Design,95.0,1
+793,https://www.offerup.com,E-commerce,SLOW,8.1,No,Yes,Specto Design,54.0,3.1
+794,https://www.giftly.com,E-commerce,SLOW,10,No,Yes,Specto Design,77.0,2.6
+795,https://www.fastcompany.com,Media & Publishing,AVERAGE,8.3,No,Yes,Specto Design,67.0,3.5
+796,https://www.bsky.app,Technology / Social Media,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+797,https://www.petco.com,Retail,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+798,https://www.advanceautoparts.com,Automotive Retail,SLOW,6.4,No,Yes,Specto Design,56.0,1.8
+799,https://www.meijer.com,Retail,SLOW,15.4,No,Yes,Specto Design,18.0,4.6
+800,https://www.shabdkosh.com,Education,AVERAGE,5.4,Yes,Yes,Specto Design,91.0,error
+801,https://www.unl.edu,Education,AVERAGE,13.1,No,Yes,Specto Design,83.0,1.8
+802,https://www.apartmentfinder.com,Real Estate,AVERAGE,4,No,Yes,Specto Design,98.0,1.3
+803,https://www.potterybarn.com,Retail,AVERAGE,16.3,No,Yes,Specto Design,23.0,5.2
+804,https://www.cliffsnotes.com,Education,AVERAGE,3.1,No,Yes,Specto Design,69.0,0.9
+805,https://www.broadwayworld.com,Entertainment,FAST,5.7,No,Yes,Specto Design,94.0,1
+806,https://www.egullet.org,Food / Culinary Forums,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+807,https://www.ncaa.com,Sports,FAST,11.1,No,Yes,Specto Design,62.0,2.7
+808,https://www.worldpopulationreview.com,Research/Data Analysis,AVERAGE,12.8,No,Yes,Specto Design,Blocked,Blocked
+809,https://www.dallasnews.com,Media,FAST,15.8,No,Yes,Specto Design,62.0,4.9
+810,https://www.zappos.com,Retail,SLOW,7.9,No,Yes,Specto Design,53.0,3.5
+811,https://www.fidelity.com,Financial Services,SLOW,9,No,Yes,Specto Design,19.0,3.4
+812,https://www.apartmenthomeliving.com,Real Estate,AVERAGE,5.5,No,Yes,Specto Design,98.0,0.8
+813,https://www.uptodown.com,Technology,FAST,3.5,No,Yes,Specto Design,86.0,0.7
+814,https://www.navy.mil,Military,Unknown,10,No,Yes,Specto Design,80.0,1.2
+815,https://www.michelin.com,Automotive,AVERAGE,5.1,No,Yes,Specto Design,87.0,2.5
+816,https://www.lyst.com,E-commerce,AVERAGE,4.7,No,Yes,Specto Design,66.0,1.1
+817,https://www.uchicago.edu,Education,SLOW,5.2,No,Yes,Specto Design,71.0,1.3
+818,https://www.slashfilm.com,Entertainment,FAST,6.4,No,Yes,Specto Design,64.0,3.2
+819,https://www.dollargeneral.com,Retail,SLOW,17.7,No,Yes,Specto Design,50.0,6.1
+820,https://www.ucsd.edu,Education,SLOW,14.7,No,Yes,Specto Design,61.0,3.3
+821,https://www.wunderground.com,Weather forecasting,AVERAGE,13.5,No,Yes,Specto Design,52.0,3.6
+822,https://www.congress.gov,Government,FAST,7.6,No,Yes,Specto Design,66.0,1.5
+823,https://www.cancer.gov,Healthcare,FAST,2.6,Yes,Yes,Specto Design,95.0,1.8
+824,https://www.rochester.edu,Education,AVERAGE,4.1,No,Yes,Specto Design,80.0,1.8
+825,https://www.pcgamesn.com,Gaming,FAST,7.3,No,Yes,Specto Design,61.0,4.2
+826,https://www.harristeeter.com,Retail,SLOW,9.5,No,Yes,Specto Design,58.0,5
+827,https://www.stocktitan.net,Finance,FAST,5.2,No,Yes,Specto Design,66.0,1
+828,https://www.bustle.com,Media,FAST,6.4,No,Yes,Specto Design,89.0,0.8
+829,https://www.libguides.com,Education / Library Resources,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+830,https://www.jamanetwork.com,Healthcare,SLOW,7.2,No,Yes,Specto Design,52.0,2.8
+831,https://www.livemint.com,Media & News,FAST,10.3,No,Yes,Specto Design,55.0,5
+832,https://www.coursehero.com,Education,AVERAGE,6.2,No,Yes,Specto Design,61.0,3.2
+833,https://www.treasury.gov,Government/Finance,AVERAGE,7.7,No,Yes,Specto Design,87.0,1.2
+834,https://www.usembassy.gov,Government/Embassy,SLOW,6.8,No,Yes,Specto Design,94.0,1.2
+835,https://www.amctheatres.com,Entertainment,SLOW,11.2,No,Yes,Specto Design,46.0,6.1
+836,https://www.flyertalk.com,Travel and Hospitality,FAST,10.8,No,Yes,Specto Design,57.0,2.6
+837,https://www.coursera.org,Education,SLOW,5.1,No,Yes,Specto Design,66.0,1.9
+838,https://www.senate.gov,Government,FAST,4.7,No,Yes,Specto Design,80.0,0.7
+839,https://www.housedigest.com,Home and Garden,FAST,3.9,No,Yes,Specto Design,97.0,0.7
+840,https://www.typepad.com,Technology,FAST,5.5,No,Yes,Specto Design,76.0,0.8
+841,https://www.sears.com,Retail,SLOW,18.1,No,Yes,Specto Design,57.0,6.2
+842,https://www.tradingview.com,Finance,SLOW,7.4,No,Yes,Specto Design,69.0,1.6
+843,https://www.fredmeyer.com,Retail,SLOW,9.8,No,Yes,Specto Design,53.0,3.2
+844,https://www.nc.gov,Government,FAST,6.3,No,Yes,Specto Design,76.0,1.3
+845,https://www.thriftbooks.com,Retail/E-commerce,SLOW,6.5,No,Yes,Specto Design,70.0,1.6
+846,https://www.marketscreener.com,Financial Services,FAST,7.5,No,Yes,Specto Design,3.8,error
+847,https://www.hotpads.com,Real Estate,AVERAGE,8.6,No,Yes,Specto Design,97.0,1.1
+848,https://www.sky.com,Media & Entertainment,AVERAGE,9.8,No,Yes,Specto Design,60.0,2.2
+849,https://www.liveauctioneers.com,E-commerce,SLOW,8.6,No,Yes,Specto Design,53.0,1.9
+850,https://www.practo.com,Healthcare,FAST,4.1,Yes,Yes,Specto Design,84.0,1.2
+851,https://www.census.gov,Government,AVERAGE,8,No,Yes,Specto Design,73.0,1.5
+852,https://www.mercadolibre.com.mx,E-commerce,AVERAGE,2.6,Yes,Yes,Specto Design,99.0,1.3
+853,https://www.vimeo.com,Media and Entertainment,SLOW,20,No,Yes,Specto Design,36.0,4.2
+854,https://www.syracuse.com,Media,FAST,12.7,No,Yes,Specto Design,48.0,3.2
+855,https://www.urbanoutfitters.com,Retail,AVERAGE,3.6,Yes,Yes,Specto Design,81.0,1.6
+856,https://www.duke.edu,Education,AVERAGE,4.4,No,Yes,Specto Design,87.0,1.5
+857,https://www.gotquestions.org,Religious/Christianity,FAST,1.6,Yes,Yes,Specto Design,89.0,0.7
+858,https://www.ktla.com,Media,FAST,15.5,No,Yes,Specto Design,16.0,6.6
+859,https://www.faa.gov,Aviation,FAST,6.3,No,Yes,Specto Design,89.0,1.1
+860,https://www.android.com,Technology,SLOW,6.2,No,Yes,Specto Design,83.0,1.4
+861,https://www.boardgamegeek.com,Gaming,FAST,6.4,No,Yes,Specto Design,59.0,2.2
+862,https://www.osha.gov,Government,AVERAGE,10.3,No,Yes,Specto Design,71.0,1.9
+863,https://www.bringatrailer.com,Automotive,SLOW,19.5,No,Yes,Specto Design,60.0,2.8
+864,https://www.audible.com,Entertainment,AVERAGE,8.6,No,Yes,Specto Design,56.0,2.9
+865,https://www.tubitv.com,Entertainment,SLOW,9.9,No,Yes,Specto Design,51.0,3.8
+866,https://www.giphy.com,Technology,AVERAGE,5.1,No,Yes,Specto Design,36.0,4.6
+867,https://www.academy.com,Retail,AVERAGE,12.4,No,Yes,Specto Design,36.0,2.2
+868,https://www.verywellfit.com,Health and wellness,FAST,4.5,No,Yes,Specto Design,91.0,0.6
+869,https://www.cruisecritic.com,Travel / Cruise Reviews,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+870,https://www.hardrock.com,Hospitality/Entertainment,FAST,4.2,No,Yes,Specto Design,87.0,1.4
+871,https://www.wondershare.com,Technology,AVERAGE,6.2,No,Yes,Specto Design,64.0,2
+872,https://www.mubi.com,Entertainment,AVERAGE,6.4,No,Yes,Specto Design,89.0,1.7
+873,https://www.rivals.com,Sports,SLOW,15.6,No,Yes,Specto Design,33.0,6.3
+874,https://www.archiveofourown.org,Literature/Entertainment,FAST,4.7,Yes,Yes,Specto Design,99.0,0.8
+875,https://www.livejournal.com,Social Media,SLOW,15.4,No,Yes,Specto Design,48.0,6.6
+876,https://www.fanfiction.net,Entertainment,FAST,10.6,No,Yes,Specto Design,99.0,0.7
+877,https://www.disneyplus.com,Entertainment,SLOW,6.7,No,Yes,Specto Design,48.0,2.5
+878,https://www.directv.com,Entertainment,SLOW,8.2,No,Yes,Specto Design,38.0,2.2
+879,https://www.stockx.com,E-commerce,AVERAGE,2.5,Yes,Yes,Specto Design,97.0,0.9
+880,https://www.uga.edu,Education,AVERAGE,14.4,No,Yes,Specto Design,42.0,2.2
+881,https://www.lyrics.com,Entertainment,AVERAGE,6.2,No,Yes,Specto Design,98.0,1.1
+882,https://www.bonanza.com,E-commerce,SLOW,11.4,No,Yes,Specto Design,56.0,2.2
+883,https://www.hubspot.com,Marketing Software,AVERAGE,7.3,No,Yes,Specto Design,54.0,2.9
+884,https://www.teepublic.com,E-commerce,AVERAGE,13.5,No,Yes,Specto Design,58.0,4.2
+885,https://www.marieclaire.com,Fashion and Beauty,AVERAGE,40.1,No,Yes,Specto Design,56.0,11.3
+886,https://www.sheknows.com,Media & Publishing,AVERAGE,6.5,Yes,Yes,Specto Design,89.0,2.2
+887,https://www.pagesix.com,Media & Entertainment,FAST,19.5,No,Yes,Specto Design,45.0,5.8
+888,https://www.spectrumlocalnews.com,Media,SLOW,8,No,Yes,Specto Design,45.0,2.1
+889,https://www.wral.com,Media,FAST,11.5,No,Yes,Specto Design,33.0,3.3
+890,https://www.oregonlive.com,Media,FAST,15.4,No,Yes,Specto Design,50.0,2.7
+891,https://www.idaho.gov,Government,AVERAGE,7.7,No,Yes,Specto Design,76.0,2.3
+892,https://www.disneystore.com,Retail,AVERAGE,5.2,No,Yes,Specto Design,59.0,4.1
+893,https://www.hse.ie,Healthcare,FAST,2.8,No,Yes,Specto Design,81.0,1.6
+894,https://www.wiki.gg,Information Technology,AVERAGE,2.4,Yes,Yes,Specto Design,99.0,0.6
+895,https://www.americansongwriter.com,Media & Entertainment,AVERAGE,14.5,No,Yes,Specto Design,45.0,3.1
+896,https://www.momjunction.com,Parenting and family.,FAST,6,No,Yes,Specto Design,92.0,1
+897,https://www.narkive.com,Media / Usenet Archive,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+898,https://www.streetdirectory.com,Mapping and navigation,FAST,3.3,Yes,Yes,Specto Design,54.0,3.3
+899,https://www.aldi.us,Retail,SLOW,4.3,No,Yes,Specto Design,63.0,1.3
+900,https://www.mcdonalds.com,Food and Beverage,AVERAGE,5.2,No,Yes,Specto Design,66.0,1.6
+901,https://www.bobvila.com,Home improvement,AVERAGE,7.2,No,Yes,Specto Design,69.0,1
+902,https://www.ea.com,Gaming,SLOW,6,No,Yes,Specto Design,26.0,2.4
+903,https://www.linustechtips.com,Technology,AVERAGE,5.2,No,Yes,Specto Design,85.0,1.2
+904,https://www.smartasset.com,Finance,FAST,7.6,No,Yes,Specto Design,49.0,2.3
+905,https://www.fandomwire.com,Entertainment,AVERAGE,2,Yes,Yes,Specto Design,99.0,0.7
+906,https://www.royalroad.com,Literature/Books/Writing,FAST,9,No,Yes,Specto Design,48.0,4.4
+907,https://www.belk.com,Retail,SLOW,15.1,No,Yes,Specto Design,40.0,6.6
+908,https://www.fool.com,Finance,FAST,5.7,No,Yes,Specto Design,34.0,3.8
+909,https://www.canadiantire.ca,Retail,AVERAGE,0.8,Yes,Yes,Specto Design,100.0,0.4
+910,https://www.jbhifi.com.au,Retail,SLOW,13.6,No,Yes,Specto Design,34.0,4.2
+911,https://www.webnovel.com,Publishing,SLOW,3.9,No,Yes,Specto Design,82.0,1.9
+912,https://www.usc.edu,Education,FAST,12.3,No,Yes,Specto Design,87.0,1.6
+913,https://www.rutgers.edu,Education,SLOW,23.2,No,Yes,Specto Design,52.0,3.6
+914,https://www.worldmarket.com,Retail,SLOW,13.1,No,Yes,Specto Design,33.0,error
+915,https://www.thehill.com,Media,FAST,18.9,No,Yes,Specto Design,39.0,6.3
+916,https://www.vaia.com,Fashion,AVERAGE,4.7,No,Yes,Specto Design,86.0,1.4
+917,https://www.dell.com,Technology,AVERAGE,8.4,No,Yes,Specto Design,64.0,2.8
+918,https://www.tripadvisor.co.nz,Travel and Tourism,SLOW,6,No,Yes,Specto Design,67.0,1.8
+919,https://www.wwd.com,Fashion,SLOW,22.5,No,Yes,Specto Design,35.0,7.2
+920,https://www.gizmodo.com,Technology,FAST,5.3,No,Yes,Specto Design,93.0,1.2
+921,https://www.fbi.gov,Law Enforcement,SLOW,17.5,No,Yes,Specto Design,61.0,2.5
+922,https://www.bobistheoilguy.com,Automotive,FAST,3.6,Yes,Yes,Specto Design,89.0,1.6
+923,https://www.olympics.com,Sports,AVERAGE,11.4,No,Yes,Specto Design,69.0,3.1
+924,https://www.saksfifthavenue.com,Retail,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+925,https://www.thepointsguy.com,Travel and Points/Miles Rewards,AVERAGE,13.4,No,Yes,Specto Design,10.0,5.1
+926,https://www.ctinsider.com,Media,AVERAGE,17.4,No,Yes,Specto Design,35.0,10.8
+927,https://www.sharecare.com,Healthcare,AVERAGE,4.1,No,Yes,Specto Design,90.0,2
+928,https://www.seekingalpha.com,Finance,SLOW,8.4,No,Yes,Specto Design,59.0,5.8
+929,https://www.downshiftology.com,Food and Beverage,FAST,3.5,Yes,Yes,Specto Design,97.0,1
+930,https://www.theinfatuation.com,Food and Beverage,AVERAGE,7.1,No,Yes,Specto Design,65.0,1.9
+931,https://www.webstaurantstore.com,Restaurant Supply,AVERAGE,11.3,No,Yes,Specto Design,47.0,2.3
+932,https://www.neoseeker.com,Technology,AVERAGE,9.8,No,Yes,Specto Design,59.0,2.5
+933,https://www.oregonstate.edu,Education,FAST,3.7,No,Yes,Specto Design,66.0,1.4
+934,https://www.nhsinform.scot,Healthcare,FAST,7.8,No,Yes,Specto Design,76.0,2.7
+935,https://www.vitals.com,Healthcare,FAST,5.6,No,Yes,Specto Design,71.0,1.2
+936,https://www.ancestry.com,Genealogy,AVERAGE,6.4,No,Yes,Specto Design,64.0,1.3
+937,https://www.rogerebert.com,Media & Entertainment,FAST,8.1,No,Yes,Specto Design,64.0,2.3
+938,https://www.thecut.com,Media/News,AVERAGE,7.3,No,Yes,Specto Design,63.0,2.8
+939,https://www.asu.edu,Education,AVERAGE,7,No,Yes,Specto Design,87.0,1
+940,https://www.moovitapp.com,Transportation,AVERAGE,2.7,Yes,Yes,Specto Design,90.0,1
+941,https://www.bible.com,Religion/Christianity,FAST,2.7,Yes,Yes,Specto Design,95.0,0.8
+942,https://www.teenvogue.com,Fashion,AVERAGE,28,No,Yes,Specto Design,33.0,14.7
+943,https://www.ewg.org,Non-profit organization,AVERAGE,4.7,No,Yes,Specto Design,60.0,1.6
+944,https://www.xfinity.com,Telecommunications,SLOW,15.2,No,Yes,Specto Design,40.0,error
+945,https://www.toyota.com,Automotive,AVERAGE,14,No,Yes,Specto Design,48.0,3.6
+946,https://www.honda.com,Automotive,AVERAGE,6.1,No,Yes,Specto Design,90.0,1.4
+947,https://www.mysanantonio.com,Media & News,AVERAGE,33.8,No,Yes,Specto Design,35.0,8.8
+948,https://www.worldbank.org,Finance,AVERAGE,2,Yes,Yes,Specto Design,100.0,0.8
+949,https://www.crosswordsolver.com,Gaming/Entertainment,AVERAGE,17.6,No,Yes,Specto Design,55.0,6
+950,https://www.max.com,Health and wellness,AVERAGE,18,No,Yes,Specto Design,33.0,error
+951,https://www.elpais.com,Media,FAST,7.9,No,Yes,Specto Design,77.0,2.9
+952,https://www.arizona.edu,Education,AVERAGE,5.7,No,Yes,Specto Design,61.0,1.5
+953,https://www.choicehotels.com,Hospitality,SLOW,13.2,No,Yes,Specto Design,26.0,3.6
+954,https://www.vanityfair.com,Media & Publishing,AVERAGE,18.5,No,Yes,Specto Design,34.0,7
+955,https://www.ldoceonline.com,Education,AVERAGE,8.8,No,Yes,Specto Design,57.0,2
+956,https://www.roblox.com,Gaming,SLOW,7.3,No,Yes,Specto Design,35.0,2.8
+957,https://www.wi.gov,Government / State Government,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+958,https://www.neimanmarcus.com,Retail,AVERAGE,12.8,No,Yes,Specto Design,53.0,4.9
+959,https://www.grammarly.com,Technology,AVERAGE,6.3,No,Yes,Specto Design,59.0,1.8
+960,https://www.avvo.com,Legal Services,FAST,2.7,Yes,Yes,Specto Design,97.0,0.7
+961,https://www.newsnationnow.com,Media & News,AVERAGE,15.4,No,Yes,Specto Design,50.0,3.7
+962,https://www.regmovies.com,Entertainment,FAST,8.5,No,Yes,Specto Design,79.0,1.8
+963,https://www.songfacts.com,Music,SLOW,4.7,No,Yes,Specto Design,55.0,1.5
+964,https://www.tealhq.com,Technology,AVERAGE,6.2,No,Yes,Specto Design,90.0,error
+965,https://www.space.com,Aerospace,AVERAGE,11.8,No,Yes,Specto Design,59.0,5.1
+966,https://www.boredpanda.com,Media and Entertainment,AVERAGE,15,No,Yes,Specto Design,53.0,5.9
+967,https://www.topspeed.com,Automotive,FAST,13.5,No,Yes,Specto Design,Blocked,Blocked
+968,https://www.complex.com,Media & Entertainment,FAST,11,No,Yes,Specto Design,49.0,2.8
+969,https://www.tvline.com,Entertainment,FAST,15.8,No,Yes,Specto Design,50.0,4.8
+970,https://www.bostonglobe.com,Media,FAST,14,No,Yes,Specto Design,37.0,3.8
+971,https://www.tkmaxx.com,Retail,FAST,3.3,Yes,Yes,Specto Design,97.0,1
+972,https://www.vividseats.com,Ticketing/Entertainment,SLOW,11.1,No,Yes,Specto Design,30.0,1.2
+973,https://www.gem.app,Technology,AVERAGE,1.7,Yes,Yes,Specto Design,94.0,0.7
+974,https://www.phys.org,Science and Technology,FAST,3.6,No,Yes,Specto Design,93.0,1.2
+975,https://www.moviefone.com,Entertainment,AVERAGE,2.2,Yes,Yes,Specto Design,99.0,0.8
+976,https://www.academia.edu,Education,SLOW,10.3,No,Yes,Specto Design,59.0,2
+977,https://www.landsearch.com,Real Estate,FAST,1.4,Yes,Yes,Specto Design,99.0,0.4
+978,https://www.atlasobscura.com,Travel and Tourism,AVERAGE,7.2,No,Yes,Specto Design,67.0,2.2
+979,https://www.distractify.com,Media & Entertainment,FAST,4.5,Yes,Yes,Specto Design,99.0,0.5
+980,https://www.crunchyroll.com,Entertainment,SLOW,5.4,No,Yes,Specto Design,94.0,0.8
+981,https://www.bmj.com,Healthcare,AVERAGE,5.2,No,Yes,Specto Design,77.0,1.3
+982,https://www.barrons.com,Finance / Investment News,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+983,https://www.paramountplus.com,Entertainment,AVERAGE,16.7,No,Yes,Specto Design,100.0,0.2
+984,https://www.primark.com,Retail,SLOW,8.9,No,Yes,Specto Design,39.0,3.9
+985,https://www.goal.com,Sports,AVERAGE,15.2,No,Yes,Specto Design,69.0,3.5
+986,https://www.loc8nearme.com,Retail/Local Business Directory,FAST,6.2,No,Yes,Specto Design,86.0,1.1
+987,https://www.ollies.com,Retail,SLOW,15.2,No,Yes,Specto Design,59.0,2.7
+988,https://www.usbank.com,Banking,AVERAGE,8,No,Yes,Specto Design,39.0,3.1
+989,https://www.audacy.com,Media & Entertainment,SLOW,7.8,No,Yes,Specto Design,46.0,2.9
+990,https://www.cuemath.com,Education,SLOW,6.5,No,Yes,Specto Design,63.0,2
+991,https://www.ftc.gov,Government,SLOW,7.4,No,Yes,Specto Design,76.0,1.7
+992,https://www.northjersey.com,Media,FAST,15.9,No,Yes,Specto Design,58.0,5.2
+993,https://www.hotwire.com,Travel and Hospitality,AVERAGE,8.1,No,Yes,Specto Design,78.0,1.6
+994,https://www.mgmresorts.com,Hospitality / Casinos & Resorts,Blocked,,Blocked,No,Specto Design,Blocked,Blocked
+995,https://www.outdoorgearlab.com,Outdoor gear and equipment,SLOW,3.6,No,Yes,Specto Design,78.0,1.1
+996,https://www.gsa.gov,Government/Government Services,AVERAGE,6.1,No,Yes,Specto Design,77.0,1
+997,https://www.umd.edu,Education,SLOW,12.5,No,Yes,Specto Design,11.0,4.3
+998,https://www.scientificamerican.com,Publishing,AVERAGE,9.2,No,Yes,Specto Design,68.0,error
+999,https://www.denverpost.com,Media,AVERAGE,24.3,No,Yes,Specto Design,36.0,8.5
+1000,https://www.goodmorningamerica.com,Media & Entertainment,FAST,8,No,Yes,Specto Design,75.0,1.1
