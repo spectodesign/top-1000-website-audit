@@ -37,7 +37,7 @@ Each row corresponds to a single audited domain, and includes the following fiel
 
 ## 📥 Download
 
-- **CSV**: [`dataset.csv`](https://www.spectodesign.com/wp-content/uploads/2025/06/dataset.csv)
+- **CSV**: [`dataset.csv`](dataset.csv)
 - **GitHub Repository**: [github.com/spectodesign/top-1000-website-audit](https://github.com/spectodesign/top-1000-website-audit)
 
 ## 🔖 License
